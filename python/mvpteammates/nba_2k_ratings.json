@@ -1,0 +1,6129 @@
+[
+  {
+    "name": "Trae Young",
+    "team": "Atlanta Hawks",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 90,
+      "3pt": 86,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Jalen Johnson",
+    "team": "Atlanta Hawks",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 74,
+      "dunk": 96
+    }
+  },
+  {
+    "name": "Dyson Daniels",
+    "team": "Atlanta Hawks",
+    "position": "PG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Onyeka Okongwu",
+    "team": "Atlanta Hawks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 70,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Clint Capela",
+    "team": "Atlanta Hawks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 25,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Zaccharie Risacher",
+    "team": "Atlanta Hawks",
+    "position": "SF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 74,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Caris LeVert",
+    "team": "Atlanta Hawks",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 85,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "team": "Atlanta Hawks",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 76,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Georges Niang",
+    "team": "Atlanta Hawks",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 84,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Vit Krejci",
+    "team": "Atlanta Hawks",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 82,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Atlanta Hawks",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Terance Mann",
+    "team": "Atlanta Hawks",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Garrison Mathews",
+    "team": "Atlanta Hawks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 82,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Kobe Bufkin",
+    "team": "Atlanta Hawks",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Keaton Wallace",
+    "team": "Atlanta Hawks",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 82,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "team": "Atlanta Hawks",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 66,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dominick Barlow",
+    "team": "Atlanta Hawks",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Daeqwon Plowden",
+    "team": "Atlanta Hawks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 95,
+      "3pt": 85,
+      "dunk": 89
+    }
+  },
+  {
+    "name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 92,
+      "3pt": 79,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "team": "Boston Celtics",
+    "position": "C",
+    "height": "7'2\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 87,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Derrick White",
+    "team": "Boston Celtics",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 81,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Jrue Holiday",
+    "team": "Boston Celtics",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 84,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Al Horford",
+    "team": "Boston Celtics",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Luke Kornet",
+    "team": "Boston Celtics",
+    "position": "C",
+    "height": "7'2\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 70,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Sam Hauser",
+    "team": "Boston Celtics",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 82,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Neemias Queta",
+    "team": "Boston Celtics",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 76,
+      "3pt": 40,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Boston Celtics",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Torrey Craig",
+    "team": "Boston Celtics",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 85,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jordan Walsh",
+    "team": "Boston Celtics",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 72,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Xavier Tillman",
+    "team": "Boston Celtics",
+    "position": "C",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 62,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Drew  Peterson",
+    "team": "Boston Celtics",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Baylor Scheierman",
+    "team": "Boston Celtics",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 80,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "JD Davison",
+    "team": "Boston Celtics",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 71,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Anton Watson",
+    "team": "Boston Celtics",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 70,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Cameron Johnson",
+    "team": "Brooklyn Nets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 86,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Cam Thomas",
+    "team": "Brooklyn Nets",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Nic Claxton",
+    "team": "Brooklyn Nets",
+    "position": "",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 64,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "D\u2019Angelo Russell",
+    "team": "Brooklyn Nets",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 77,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Ziaire Williams",
+    "team": "Brooklyn Nets",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 73,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "De\u2019Anthony Melton",
+    "team": "Brooklyn Nets",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Day\u2019Ron Sharpe",
+    "team": "Brooklyn Nets",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 48,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Keon Johnson",
+    "team": "Brooklyn Nets",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 72,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Jalen Wilson",
+    "team": "Brooklyn Nets",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Noah Clowney",
+    "team": "Brooklyn Nets",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Brooklyn Nets",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Killian Hayes",
+    "team": "Brooklyn Nets",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 73,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Trendon Watford",
+    "team": "Brooklyn Nets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 72,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tyrese Martin",
+    "team": "Brooklyn Nets",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 78,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Dariq Whitehead",
+    "team": "Brooklyn Nets",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 84,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "team": "Brooklyn Nets",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 73,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Maxwell Lewis",
+    "team": "Brooklyn Nets",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 77,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Reece Beekman",
+    "team": "Brooklyn Nets",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 71,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "position": "PG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 90,
+      "3pt": 81,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Mark Williams",
+    "team": "Charlotte Hornets",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 83,
+      "3pt": 36,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Miles Bridges",
+    "team": "Charlotte Hornets",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 74,
+      "dunk": 90
+    }
+  },
+  {
+    "name": "Brandon Miller",
+    "team": "Charlotte Hornets",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 79,
+      "dunk": 87
+    }
+  },
+  {
+    "name": "Tre Mann",
+    "team": "Charlotte Hornets",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 84,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jusuf Nurkic",
+    "team": "Charlotte Hornets",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 77,
+      "3pt": 75,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Josh Okogie",
+    "team": "Charlotte Hornets",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "team": "Charlotte Hornets",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 81,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Grant Williams",
+    "team": "Charlotte Hornets",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Josh Green",
+    "team": "Charlotte Hornets",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 84,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Charlotte Hornets",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Moussa Diabate",
+    "team": "Charlotte Hornets",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 67,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Seth Curry",
+    "team": "Charlotte Hornets",
+    "position": "SG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 90,
+      "dunk": 36
+    }
+  },
+  {
+    "name": "Elfrid Payton",
+    "team": "Charlotte Hornets",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 68,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Wendell Moore Jr.",
+    "team": "Charlotte Hornets",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 76,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tidjane Salaun",
+    "team": "Charlotte Hornets",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "KJ Simpson",
+    "team": "Charlotte Hornets",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 68,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Taj Gibson",
+    "team": "Charlotte Hornets",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 50,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "DaQuan Jeffries",
+    "team": "Charlotte Hornets",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 85,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Damion Baugh",
+    "team": "Charlotte Hornets",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Nikola Vucevic",
+    "team": "Chicago Bulls",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 84,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Coby White",
+    "team": "Chicago Bulls",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 81,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Josh Giddey",
+    "team": "Chicago Bulls",
+    "position": "SG",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 76,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Lonzo Ball",
+    "team": "Chicago Bulls",
+    "position": "PG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 78,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jalen Smith",
+    "team": "Chicago Bulls",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 78,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "team": "Chicago Bulls",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Zach Collins",
+    "team": "Chicago Bulls",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 75,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Matas Buzelis",
+    "team": "Chicago Bulls",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 76,
+      "dunk": 89
+    }
+  },
+  {
+    "name": "Patrick Williams",
+    "team": "Chicago Bulls",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Kevin Huerter",
+    "team": "Chicago Bulls",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 72,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Chicago Bulls",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Tre Jones",
+    "team": "Chicago Bulls",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 73,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "team": "Chicago Bulls",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 80,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jevon Carter",
+    "team": "Chicago Bulls",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 80,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Julian Phillips",
+    "team": "Chicago Bulls",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Dalen Terry",
+    "team": "Chicago Bulls",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 76,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "E.J. Liddell",
+    "team": "Chicago Bulls",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 76,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Emanuel Miller",
+    "team": "Chicago Bulls",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jahmir Young",
+    "team": "Chicago Bulls",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 72,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 94,
+      "3pt": 86,
+      "dunk": 92
+    }
+  },
+  {
+    "name": "Evan Mobley",
+    "team": "Cleveland Cavaliers",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 81,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Darius Garland",
+    "team": "Cleveland Cavaliers",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 89,
+      "dunk": 40
+    }
+  },
+  {
+    "name": "Jarrett Allen",
+    "team": "Cleveland Cavaliers",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 63,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Ty Jerome",
+    "team": "Cleveland Cavaliers",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 88,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "De\u2019Andre Hunter",
+    "team": "Cleveland Cavaliers",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 83,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Max Strus",
+    "team": "Cleveland Cavaliers",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 83,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Isaac Okoro",
+    "team": "Cleveland Cavaliers",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dean Wade",
+    "team": "Cleveland Cavaliers",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jaylon Tyson",
+    "team": "Cleveland Cavaliers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 80,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Cleveland Cavaliers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Craig Porter",
+    "team": "Cleveland Cavaliers",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 83,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Sam Merrill",
+    "team": "Cleveland Cavaliers",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 82,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Tristan Thompson",
+    "team": "Cleveland Cavaliers",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 62,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "J.T. Thor",
+    "team": "Cleveland Cavaliers",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 78,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Luke Travers",
+    "team": "Cleveland Cavaliers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Emoni Bates",
+    "team": "Cleveland Cavaliers",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 77,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Nae\u2019Qwan Tomlin",
+    "team": "Cleveland Cavaliers",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Anthony Davis",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 95,
+      "3pt": 75,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "position": "",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 92,
+      "3pt": 87,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Dereck Lively II",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 52,
+      "dunk": 83
+    }
+  },
+  {
+    "name": "Daniel Gafford",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 29,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "P.J. Washington",
+    "team": "Dallas Mavericks",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 80,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Klay Thompson",
+    "team": "Dallas Mavericks",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 89,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "team": "Dallas Mavericks",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 76,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Max Christie",
+    "team": "Dallas Mavericks",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 83,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Naji Marshall",
+    "team": "Dallas Mavericks",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 74,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Dante Exum",
+    "team": "Dallas Mavericks",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 86,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Dallas Mavericks",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Caleb Martin",
+    "team": "Dallas Mavericks",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Olivier-Maxence Prosper",
+    "team": "Dallas Mavericks",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 70,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Jaden Hardy",
+    "team": "Dallas Mavericks",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 85,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Dwight Powell",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Brandon Williams",
+    "team": "Dallas Mavericks",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 67,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Moses Brown",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "7'2\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 26,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Kylor Kelley",
+    "team": "Dallas Mavericks",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 70,
+      "3pt": 40,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Kessler Edwards",
+    "team": "Dallas Mavericks",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 98,
+      "3pt": 92,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 81,
+      "dunk": 82
+    }
+  },
+  {
+    "name": "Michael Porter Jr.",
+    "team": "Denver Nuggets",
+    "position": "SF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 85,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Russell Westbrook",
+    "team": "Denver Nuggets",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 77,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Christian Braun",
+    "team": "Denver Nuggets",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 84,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 88,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Julian Strawther",
+    "team": "Denver Nuggets",
+    "position": "",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Peyton Watson",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "DeAndre Jordan",
+    "team": "Denver Nuggets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 25,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dario Saric",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 70,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Denver Nuggets",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Zeke Nnaji",
+    "team": "Denver Nuggets",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 69,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Vlatko Cancar",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 82,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "DaRon Holmes II",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jalen Pickett",
+    "team": "Denver Nuggets",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 84,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Hunter Tyson",
+    "team": "Denver Nuggets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "PJ Hall",
+    "team": "Denver Nuggets",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Trey Alexander",
+    "team": "Denver Nuggets",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 70,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Spencer Jones",
+    "team": "Denver Nuggets",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Cade Cunningham",
+    "team": "Detroit Pistons",
+    "position": "PG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 91,
+      "3pt": 83,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jalen Duren",
+    "team": "Detroit Pistons",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 35,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jaden Ivey",
+    "team": "Detroit Pistons",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 84,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Ausar Thompson",
+    "team": "Detroit Pistons",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 59,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Tobias Harris",
+    "team": "Detroit Pistons",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Malik Beasley",
+    "team": "Detroit Pistons",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 84,
+      "dunk": 78
+    }
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "team": "Detroit Pistons",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 87,
+      "dunk": 78
+    }
+  },
+  {
+    "name": "Dennis Schroder",
+    "team": "Detroit Pistons",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 79,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Isaiah Stewart",
+    "team": "Detroit Pistons",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 69,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ronald Holland II",
+    "team": "Detroit Pistons",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 70,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Detroit Pistons",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Marcus Sasser",
+    "team": "Detroit Pistons",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 80,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Simone Fontecchio",
+    "team": "Detroit Pistons",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Paul Reed",
+    "team": "Detroit Pistons",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 76,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Lindy Waters III",
+    "team": "Detroit Pistons",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 77,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Bobi Klintman",
+    "team": "Detroit Pistons",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Ron Harper Jr.",
+    "team": "Detroit Pistons",
+    "position": "",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 76,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Tolu Smith",
+    "team": "Detroit Pistons",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 37,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Daniss Jenkins",
+    "team": "Detroit Pistons",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 75,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 95,
+      "3pt": 99,
+      "dunk": 36
+    }
+  },
+  {
+    "name": "Jimmy Butler",
+    "team": "Golden State Warriors",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Draymond Green",
+    "team": "Golden State Warriors",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jonathan Kuminga",
+    "team": "Golden State Warriors",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 78,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Brandin Podziemski",
+    "team": "Golden State Warriors",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 79,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Buddy Hield",
+    "team": "Golden State Warriors",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 86,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Trayce Jackson-Davis",
+    "team": "Golden State Warriors",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 44,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Moses Moody",
+    "team": "Golden State Warriors",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 83,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Gary Payton II",
+    "team": "Golden State Warriors",
+    "position": "SF",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Quinten Post",
+    "team": "Golden State Warriors",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 77,
+      "3pt": 83,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Golden State Warriors",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Kevon Looney",
+    "team": "Golden State Warriors",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 69,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Gui Santos",
+    "team": "Golden State Warriors",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 87,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Kevin Knox II",
+    "team": "Golden State Warriors",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Yuri Collins",
+    "team": "Golden State Warriors",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Pat Spencer",
+    "team": "Golden State Warriors",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 77,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jackson Rowe",
+    "team": "Golden State Warriors",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 74,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 69,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Amen Thompson",
+    "team": "Houston Rockets",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 61,
+      "dunk": 96
+    }
+  },
+  {
+    "name": "Jalen Green",
+    "team": "Houston Rockets",
+    "position": "",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 82,
+      "dunk": 91
+    }
+  },
+  {
+    "name": "Fred VanVleet",
+    "team": "Houston Rockets",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 83,
+      "3pt": 80,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Dillon Brooks",
+    "team": "Houston Rockets",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jabari Smith Jr.",
+    "team": "Houston Rockets",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 79,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Tari Eason",
+    "team": "Houston Rockets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 76,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Cam Whitmore",
+    "team": "Houston Rockets",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Steven Adams",
+    "team": "Houston Rockets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 26,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Jock Landale",
+    "team": "Houston Rockets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 63,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Houston Rockets",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Jae\u2019Sean Tate",
+    "team": "Houston Rockets",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 76,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jeff Green",
+    "team": "Houston Rockets",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Cody Zeller",
+    "team": "Houston Rockets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 38,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Aaron Holiday",
+    "team": "Houston Rockets",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 73,
+      "3pt": 81,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Reed Sheppard",
+    "team": "Houston Rockets",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 76,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Jack McVeigh",
+    "team": "Houston Rockets",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 82,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Nate Williams",
+    "team": "Houston Rockets",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 77,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "N\u2019Faly Dante",
+    "team": "Houston Rockets",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 25,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Pascal Siakam",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 83,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 82,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Myles Turner",
+    "team": "Indiana Pacers",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 83,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Bennedict Mathurin",
+    "team": "Indiana Pacers",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Andrew Nembhard",
+    "team": "Indiana Pacers",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 81,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "T.J. McConnell",
+    "team": "Indiana Pacers",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 74,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Obi Toppin",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 78,
+      "dunk": 90
+    }
+  },
+  {
+    "name": "Aaron Nesmith",
+    "team": "Indiana Pacers",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 86,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Jarace Walker",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 83,
+      "dunk": 87
+    }
+  },
+  {
+    "name": "Isaiah Jackson",
+    "team": "Indiana Pacers",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 59,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Indiana Pacers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Thomas Bryant",
+    "team": "Indiana Pacers",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 83,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Ben Sheppard",
+    "team": "Indiana Pacers",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Quenton Jackson",
+    "team": "Indiana Pacers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jahlil Okafor",
+    "team": "Indiana Pacers",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 60,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Johnny Furphy",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "James Johnson",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 68,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Enrique Freeman",
+    "team": "Indiana Pacers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 66,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "RayJ Dennis",
+    "team": "Indiana Pacers",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 73,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Kawhi Leonard",
+    "team": "Los Angeles Clippers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "James Harden",
+    "team": "Los Angeles Clippers",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Norman Powell",
+    "team": "Los Angeles Clippers",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 87,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ivica Zubac",
+    "team": "Los Angeles Clippers",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 86,
+      "3pt": 26,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Derrick Jones Jr.",
+    "team": "Los Angeles Clippers",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 81,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "team": "Los Angeles Clippers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 73,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Drew Eubanks",
+    "team": "Los Angeles Clippers",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 77,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ben Simmons",
+    "team": "Los Angeles Clippers",
+    "position": "PG",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 50,
+      "dunk": 86
+    }
+  },
+  {
+    "name": "Kris Dunn",
+    "team": "Los Angeles Clippers",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 73,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Amir Coffey",
+    "team": "Los Angeles Clippers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 86,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Los Angeles Clippers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Nicolas Batum",
+    "team": "Los Angeles Clippers",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jordan Miller",
+    "team": "Los Angeles Clippers",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 72,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Kobe Brown",
+    "team": "Los Angeles Clippers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 67,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "team": "Los Angeles Clippers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 76,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Kai Jones",
+    "team": "Los Angeles Clippers",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 69,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Patty Mills",
+    "team": "Los Angeles Clippers",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 73,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Cam Christie",
+    "team": "Los Angeles Clippers",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Trentyn Flowers",
+    "team": "Los Angeles Clippers",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 75,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Luka Doncic",
+    "team": "Los Angeles Lakers",
+    "position": "PG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 96,
+      "3pt": 88,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 96,
+      "3pt": 83,
+      "dunk": 89
+    }
+  },
+  {
+    "name": "Austin Reaves",
+    "team": "Los Angeles Lakers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 82,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Rui Hachimura",
+    "team": "Los Angeles Lakers",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 85,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "team": "Los Angeles Lakers",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 66,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dalton Knecht",
+    "team": "Los Angeles Lakers",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 82,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Gabe Vincent",
+    "team": "Los Angeles Lakers",
+    "position": "",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 80,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "team": "Los Angeles Lakers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 87,
+      "dunk": 84
+    }
+  },
+  {
+    "name": "Jaxson Hayes",
+    "team": "Los Angeles Lakers",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 76,
+      "3pt": 60,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Shake Milton",
+    "team": "Los Angeles Lakers",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 81,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Los Angeles Lakers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Alex Len",
+    "team": "Los Angeles Lakers",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 74,
+      "3pt": 60,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jordan Goodwin",
+    "team": "Los Angeles Lakers",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 72,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Cam Reddish",
+    "team": "Los Angeles Lakers",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 71,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Christian Koloko",
+    "team": "Los Angeles Lakers",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 72,
+      "3pt": 29,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Maxi Kleber",
+    "team": "Los Angeles Lakers",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 72,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Trey Jemison III",
+    "team": "Los Angeles Lakers",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 29,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Markieff Morris",
+    "team": "Los Angeles Lakers",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 75,
+      "dunk": 67
+    }
+  },
+  {
+    "name": "Bronny James",
+    "team": "Los Angeles Lakers",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 69,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jaren Jackson Jr.",
+    "team": "Memphis Grizzlies",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 91,
+      "3pt": 78,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 90,
+      "3pt": 75,
+      "dunk": 97
+    }
+  },
+  {
+    "name": "Desmond Bane",
+    "team": "Memphis Grizzlies",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 87,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Zach Edey",
+    "team": "Memphis Grizzlies",
+    "position": "C",
+    "height": "7'5\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 84,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Santi Aldama",
+    "team": "Memphis Grizzlies",
+    "position": "PF",
+    "height": "Unknown",
+    "rating": {
+      "overall": 80,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jaylen Wells",
+    "team": "Memphis Grizzlies",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 83,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Scotty Pippen Jr.",
+    "team": "Memphis Grizzlies",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Brandon Clarke",
+    "team": "Memphis Grizzlies",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 57,
+      "dunk": 84
+    }
+  },
+  {
+    "name": "G.G. Jackson",
+    "team": "Memphis Grizzlies",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 78,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Luke Kennard",
+    "team": "Memphis Grizzlies",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 93,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Memphis Grizzlies",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Marvin Bagley III",
+    "team": "Memphis Grizzlies",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Vince Williams Jr.",
+    "team": "Memphis Grizzlies",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Jay Huff",
+    "team": "Memphis Grizzlies",
+    "position": "C",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 85,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "John Konchar",
+    "team": "Memphis Grizzlies",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 73,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Cam Spencer",
+    "team": "Memphis Grizzlies",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 76,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Zyon Pullin",
+    "team": "Memphis Grizzlies",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 75,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Yuki  Kawamura",
+    "team": "Memphis Grizzlies",
+    "position": "PG",
+    "height": "5'8\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 75,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 68,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tyler Herro",
+    "team": "Miami Heat",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 88,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Andrew Wiggins",
+    "team": "Miami Heat",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 81,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Kel\u2019el Ware",
+    "team": "Miami Heat",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 80,
+      "3pt": 82,
+      "dunk": 86
+    }
+  },
+  {
+    "name": "Jaime Jaquez Jr.",
+    "team": "Miami Heat",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 79,
+      "dunk": 88
+    }
+  },
+  {
+    "name": "Terry Rozier III",
+    "team": "Miami Heat",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Nikola Jovic",
+    "team": "Miami Heat",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Duncan Robinson",
+    "team": "Miami Heat",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Kevin Love",
+    "team": "Miami Heat",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 80,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Kyle Anderson",
+    "team": "Miami Heat",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 79,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Miami Heat",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Haywood Highsmith",
+    "team": "Miami Heat",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 84,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Davion Mitchell",
+    "team": "Miami Heat",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 75,
+      "3pt": 76,
+      "dunk": 40
+    }
+  },
+  {
+    "name": "Alec Burks",
+    "team": "Miami Heat",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 86,
+      "dunk": 69
+    }
+  },
+  {
+    "name": "Pelle Larsson",
+    "team": "Miami Heat",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 76,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dru Smith",
+    "team": "Miami Heat",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 81,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Josh Christopher",
+    "team": "Miami Heat",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 70,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Keshad Johnson",
+    "team": "Miami Heat",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Isaiah Stevens",
+    "team": "Miami Heat",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 68,
+      "3pt": 74,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "position": "",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 98,
+      "3pt": 51,
+      "dunk": 91
+    }
+  },
+  {
+    "name": "Damian Lillard",
+    "team": "Milwaukee Bucks",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 92,
+      "3pt": 87,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Bobby Portis",
+    "team": "Milwaukee Bucks",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 80,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Brook Lopez",
+    "team": "Milwaukee Bucks",
+    "position": "C",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 81,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Kyle Kuzma",
+    "team": "Milwaukee Bucks",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 70,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "A.J. Green",
+    "team": "Milwaukee Bucks",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 89,
+      "dunk": 40
+    }
+  },
+  {
+    "name": "Gary Trent Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 89,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Kevin Porter Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 62,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Taurean Prince",
+    "team": "Milwaukee Bucks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 89,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Andre Jackson Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 81,
+      "dunk": 90
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Milwaukee Bucks",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Ryan Rollins",
+    "team": "Milwaukee Bucks",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 81,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Pat Connaughton",
+    "team": "Milwaukee Bucks",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 86
+    }
+  },
+  {
+    "name": "Jericho Sims",
+    "team": "Milwaukee Bucks",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 26,
+      "dunk": 89
+    }
+  },
+  {
+    "name": "Stanley Umude",
+    "team": "Milwaukee Bucks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 76,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Tyler Smith",
+    "team": "Milwaukee Bucks",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 80,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Chris Livingston",
+    "team": "Milwaukee Bucks",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 70,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 94,
+      "3pt": 88,
+      "dunk": 97
+    }
+  },
+  {
+    "name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "position": "C",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 25,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Julius Randle",
+    "team": "Minnesota Timberwolves",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jaden McDaniels",
+    "team": "Minnesota Timberwolves",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 86,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Mike Conley",
+    "team": "Minnesota Timberwolves",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 79,
+      "3pt": 84,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "team": "Minnesota Timberwolves",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 82,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "team": "Minnesota Timberwolves",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Rob Dillingham",
+    "team": "Minnesota Timberwolves",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 85,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Joe Ingles",
+    "team": "Minnesota Timberwolves",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 86,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Minnesota Timberwolves",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Josh Minott",
+    "team": "Minnesota Timberwolves",
+    "position": "",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jaylen Clark",
+    "team": "Minnesota Timberwolves",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 78,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Luka Garza",
+    "team": "Minnesota Timberwolves",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 71,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Terrence Shannon Jr.",
+    "team": "Minnesota Timberwolves",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 75,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Leonard Miller",
+    "team": "Minnesota Timberwolves",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 72,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Tristen Newton",
+    "team": "Minnesota Timberwolves",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 73,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Jesse Edwards",
+    "team": "Minnesota Timberwolves",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 35,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 67,
+      "dunk": 95
+    }
+  },
+  {
+    "name": "Trey Murphy III",
+    "team": "New Orleans Pelicans",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 83,
+      "dunk": 88
+    }
+  },
+  {
+    "name": "C.J. McCollum",
+    "team": "New Orleans Pelicans",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 84,
+      "dunk": 40
+    }
+  },
+  {
+    "name": "Dejounte Murray",
+    "team": "New Orleans Pelicans",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Herbert Jones",
+    "team": "New Orleans Pelicans",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Yves Missi",
+    "team": "New Orleans Pelicans",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 79,
+      "3pt": 30,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jose Alvarado",
+    "team": "New Orleans Pelicans",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 79,
+      "3pt": 84,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Kelly Olynyk",
+    "team": "New Orleans Pelicans",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 85,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Bruce Brown",
+    "team": "New Orleans Pelicans",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 75,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Brandon Boston Jr.",
+    "team": "New Orleans Pelicans",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 78,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "New Orleans Pelicans",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Jordan Hawkins",
+    "team": "New Orleans Pelicans",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jeremiah Robinson-Earl",
+    "team": "New Orleans Pelicans",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 72,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Karlo Matkovic",
+    "team": "New Orleans Pelicans",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 70,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Antonio Reeves",
+    "team": "New Orleans Pelicans",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 78,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Jamal Cain",
+    "team": "New Orleans Pelicans",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 75,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Keion Brooks Jr.",
+    "team": "New Orleans Pelicans",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 76,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 93,
+      "3pt": 86,
+      "dunk": 35
+    }
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "team": "New York Knicks",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 93,
+      "3pt": 87,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "OG Anunoby",
+    "team": "New York Knicks",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 80,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Mikal Bridges",
+    "team": "New York Knicks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Josh Hart",
+    "team": "New York Knicks",
+    "position": "PF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 80,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Mitchell Robinson",
+    "team": "New York Knicks",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 80,
+      "3pt": 32,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Precious Achiuwa",
+    "team": "New York Knicks",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 81,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Miles McBride",
+    "team": "New York Knicks",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 81,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Cameron Payne",
+    "team": "New York Knicks",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 84,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Tyler Kolek",
+    "team": "New York Knicks",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 84,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "New York Knicks",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Delon Wright",
+    "team": "New York Knicks",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 65,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Landry Shamet",
+    "team": "New York Knicks",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ariel Hukporti",
+    "team": "New York Knicks",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 70,
+      "3pt": 47,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Matt Ryan",
+    "team": "New York Knicks",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 81,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Pacome Dadiet",
+    "team": "New York Knicks",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Kevin McCullar",
+    "team": "New York Knicks",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jacob Toppin",
+    "team": "New York Knicks",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 69,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "position": "PG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 98,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "position": "C",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jalen Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 82,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "team": "Oklahoma City Thunder",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 85,
+      "3pt": 55,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Luguentz Dort",
+    "team": "Oklahoma City Thunder",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 85,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Alex Caruso",
+    "team": "Oklahoma City Thunder",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Aaron Wiggins",
+    "team": "Oklahoma City Thunder",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 83,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 84,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Isaiah Joe",
+    "team": "Oklahoma City Thunder",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 88,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jaylin Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 81,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Oklahoma City Thunder",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Kenrich Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Ajay Mitchell",
+    "team": "Oklahoma City Thunder",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 86,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ousmane Dieng",
+    "team": "Oklahoma City Thunder",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 68,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Nikola Topic",
+    "team": "Oklahoma City Thunder",
+    "position": "PG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 72,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Branden Carlson",
+    "team": "Oklahoma City Thunder",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 70,
+      "3pt": 82,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Dillon Jones",
+    "team": "Oklahoma City Thunder",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 62,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Adam Flagler",
+    "team": "Oklahoma City Thunder",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 70,
+      "dunk": 45
+    }
+  },
+  {
+    "name": "Alex Ducas",
+    "team": "Oklahoma City Thunder",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 81,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Franz Wagner",
+    "team": "Orlando Magic",
+    "position": "SF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 77,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Jalen Suggs",
+    "team": "Orlando Magic",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Goga Bitadze",
+    "team": "Orlando Magic",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 65,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Anthony Black",
+    "team": "Orlando Magic",
+    "position": "PG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Wendell Carter Jr.",
+    "team": "Orlando Magic",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 59,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Cole Anthony",
+    "team": "Orlando Magic",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 74,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Moritz Wagner",
+    "team": "Orlando Magic",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jonathan Isaac",
+    "team": "Orlando Magic",
+    "position": "PF",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 69,
+      "dunk": 82
+    }
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "team": "Orlando Magic",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 81,
+      "dunk": 73
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Orlando Magic",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Tristan da Silva",
+    "team": "Orlando Magic",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 74,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jett Howard",
+    "team": "Orlando Magic",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 79,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Caleb Houstan",
+    "team": "Orlando Magic",
+    "position": "SG",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 73,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Gary Harris",
+    "team": "Orlando Magic",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 80,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Trevelin Queen",
+    "team": "Orlando Magic",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Cory Joseph",
+    "team": "Orlando Magic",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 78,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Mac McClung",
+    "team": "Orlando Magic",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 75,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Ethan Thompson",
+    "team": "Orlando Magic",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 76,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Joel Embiid",
+    "team": "Philadelphia 76Ers",
+    "position": "",
+    "height": "Unknown",
+    "rating": {
+      "overall": 94,
+      "3pt": 80,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Tyrese Maxey",
+    "team": "Philadelphia 76Ers",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 82,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Paul George",
+    "team": "Philadelphia 76Ers",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 80,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Jared McCain",
+    "team": "Philadelphia 76Ers",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 82,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "team": "Philadelphia 76Ers",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 82,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Kelly Oubre Jr.",
+    "team": "Philadelphia 76Ers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 71,
+      "dunk": 84
+    }
+  },
+  {
+    "name": "Quentin Grimes",
+    "team": "Philadelphia 76Ers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 84,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Andre Drummond",
+    "team": "Philadelphia 76Ers",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 47,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Kyle Lowry",
+    "team": "Philadelphia 76Ers",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 75,
+      "3pt": 75,
+      "dunk": 25
+    }
+  },
+  {
+    "name": "Justin Edwards",
+    "team": "Philadelphia 76Ers",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Philadelphia 76Ers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Jared Butler",
+    "team": "Philadelphia 76Ers",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 81,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Eric Gordon",
+    "team": "Philadelphia 76Ers",
+    "position": "",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 85,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ricky Council IV",
+    "team": "Philadelphia 76Ers",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 70,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "David Roddy",
+    "team": "Philadelphia 76Ers",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 82,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Lonnie Walker IV",
+    "team": "Philadelphia 76Ers",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Adem Bona",
+    "team": "Philadelphia 76Ers",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 27,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Chuma Okeke",
+    "team": "Philadelphia 76Ers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 70,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Jeff Dowtin",
+    "team": "Philadelphia 76Ers",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Kevin Durant",
+    "team": "Phoenix Suns",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 95,
+      "3pt": 89,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 93,
+      "3pt": 85,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Bradley Beal",
+    "team": "Phoenix Suns",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 85,
+      "3pt": 87,
+      "dunk": 84
+    }
+  },
+  {
+    "name": "Tyus Jones",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 85,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Grayson Allen",
+    "team": "Phoenix Suns",
+    "position": "SF",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 89,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Nick Richards",
+    "team": "Phoenix Suns",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 79,
+      "3pt": 25,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Mason Plumlee",
+    "team": "Phoenix Suns",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 58,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ryan Dunn",
+    "team": "Phoenix Suns",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Monte Morris",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 72,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Bol Bol",
+    "team": "Phoenix Suns",
+    "position": "",
+    "height": "7'3\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 71,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Phoenix Suns",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Cody Martin",
+    "team": "Phoenix Suns",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 75,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Royce O\u2019Neale",
+    "team": "Phoenix Suns",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 85,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Oso Ighodaro",
+    "team": "Phoenix Suns",
+    "position": "PF",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 35,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Damion Lee",
+    "team": "Phoenix Suns",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Vasilije Micic",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 76,
+      "dunk": 40
+    }
+  },
+  {
+    "name": "TyTy Washington",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 70,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Collin Gillespie",
+    "team": "Phoenix Suns",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 82,
+      "dunk": 54
+    }
+  },
+  {
+    "name": "Jalen Bridges",
+    "team": "Phoenix Suns",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 76,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Anfernee Simons",
+    "team": "Portland Trail Blazers",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 84,
+      "dunk": 89
+    }
+  },
+  {
+    "name": "Deandre Ayton",
+    "team": "Portland Trail Blazers",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 83,
+      "3pt": 63,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Robert Williams III",
+    "team": "Portland Trail Blazers",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 25,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 80,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "team": "Portland Trail Blazers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 74,
+      "dunk": 95
+    }
+  },
+  {
+    "name": "Jerami Grant",
+    "team": "Portland Trail Blazers",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 81,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Deni Avdija",
+    "team": "Portland Trail Blazers",
+    "position": "SF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 78,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Donovan Clingan",
+    "team": "Portland Trail Blazers",
+    "position": "C",
+    "height": "7'3\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 68,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Toumani Camara",
+    "team": "Portland Trail Blazers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 79,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Dalano Banton",
+    "team": "Portland Trail Blazers",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Portland Trail Blazers",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Matisse Thybulle",
+    "team": "Portland Trail Blazers",
+    "position": "",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Jabari Walker",
+    "team": "Portland Trail Blazers",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 61,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Duop Reath",
+    "team": "Portland Trail Blazers",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 74,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Kris Murray",
+    "team": "Portland Trail Blazers",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 69,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Rayan Rupert",
+    "team": "Portland Trail Blazers",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 71,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Bryce McGowens",
+    "team": "Portland Trail Blazers",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 77,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Sidy Cissoko",
+    "team": "Portland Trail Blazers",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 60,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Justin Minaya",
+    "team": "Portland Trail Blazers",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 71,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "position": "",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 89,
+      "3pt": 87,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "DeMar DeRozan",
+    "team": "Sacramento Kings",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Zach LaVine",
+    "team": "Sacramento Kings",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 85,
+      "dunk": 94
+    }
+  },
+  {
+    "name": "Malik Monk",
+    "team": "Sacramento Kings",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 81,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "team": "Sacramento Kings",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 74,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Keegan Murray",
+    "team": "Sacramento Kings",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 83,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Keon Ellis",
+    "team": "Sacramento Kings",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 87,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jake LaRavia",
+    "team": "Sacramento Kings",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 87,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Markelle Fultz",
+    "team": "Sacramento Kings",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 67,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Isaac Jones",
+    "team": "Sacramento Kings",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 49,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Sacramento Kings",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Trey Lyles",
+    "team": "Sacramento Kings",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jae Crowder",
+    "team": "Sacramento Kings",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 79,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Devin Carter",
+    "team": "Sacramento Kings",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Doug McDermott",
+    "team": "Sacramento Kings",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 88,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Mason Jones",
+    "team": "Sacramento Kings",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Daishen Nix",
+    "team": "Sacramento Kings",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Isaiah Crawford",
+    "team": "Sacramento Kings",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 78,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "position": "C",
+    "height": "7'4\"",
+    "rating": {
+      "overall": 94,
+      "3pt": 80,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "De\u2019Aaron Fox",
+    "team": "San Antonio Spurs",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 88,
+      "3pt": 74,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Devin Vassell",
+    "team": "San Antonio Spurs",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 82,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Chris Paul",
+    "team": "San Antonio Spurs",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 82,
+      "3pt": 80,
+      "dunk": 27
+    }
+  },
+  {
+    "name": "Stephon Castle",
+    "team": "San Antonio Spurs",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 71,
+      "dunk": 88
+    }
+  },
+  {
+    "name": "Harrison Barnes",
+    "team": "San Antonio Spurs",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 85,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jeremy Sochan",
+    "team": "San Antonio Spurs",
+    "position": "",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 72,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 71,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Charles Bassey",
+    "team": "San Antonio Spurs",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 62,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Sandro Mamukelashvili",
+    "team": "San Antonio Spurs",
+    "position": "",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 84,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "San Antonio Spurs",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Malaki Branham",
+    "team": "San Antonio Spurs",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Julian Champagnie",
+    "team": "San Antonio Spurs",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Jordan McLaughlin",
+    "team": "San Antonio Spurs",
+    "position": "PG",
+    "height": "Unknown",
+    "rating": {
+      "overall": 73,
+      "3pt": 84,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Blake Wesley",
+    "team": "San Antonio Spurs",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 65,
+      "dunk": 86
+    }
+  },
+  {
+    "name": "Bismack Biyombo",
+    "team": "San Antonio Spurs",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 25,
+      "dunk": 68
+    }
+  },
+  {
+    "name": "Harrison Ingram",
+    "team": "San Antonio Spurs",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "David Duke Jr.",
+    "team": "San Antonio Spurs",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 69,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Scottie Barnes",
+    "team": "Toronto Raptors",
+    "position": "PF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 87,
+      "3pt": 69,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Brandon Ingram",
+    "team": "Toronto Raptors",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 86,
+      "3pt": 81,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "R.J. Barrett",
+    "team": "Toronto Raptors",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 79,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Jakob Poeltl",
+    "team": "Toronto Raptors",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 83,
+      "3pt": 45,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Gradey Dick",
+    "team": "Toronto Raptors",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 78,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Immanuel Quickley",
+    "team": "Toronto Raptors",
+    "position": "PG",
+    "height": "6'2\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 81,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Chris Boucher",
+    "team": "Toronto Raptors",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 82,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ja\u2019Kobe Walter",
+    "team": "Toronto Raptors",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 72,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jonathan Mogbo",
+    "team": "Toronto Raptors",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 75,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Ochai Agbaji",
+    "team": "Toronto Raptors",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 84,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Toronto Raptors",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Jamal Shead",
+    "team": "Toronto Raptors",
+    "position": "PG",
+    "height": "6'1\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 80,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Jamison Battle",
+    "team": "Toronto Raptors",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 74,
+      "3pt": 84,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Orlando Robinson",
+    "team": "Toronto Raptors",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 77,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "P.J. Tucker",
+    "team": "Toronto Raptors",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 78,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "A.J. Lawson",
+    "team": "Toronto Raptors",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 70,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Garrett Temple",
+    "team": "Toronto Raptors",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 72,
+      "dunk": 30
+    }
+  },
+  {
+    "name": "Jared Rhoden",
+    "team": "Toronto Raptors",
+    "position": "PF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 77,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Ulrich Chomche",
+    "team": "Toronto Raptors",
+    "position": "C",
+    "height": "6'11\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 58,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "position": "SF",
+    "height": "Unknown",
+    "rating": {
+      "overall": 84,
+      "3pt": 82,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "John Collins",
+    "team": "Utah Jazz",
+    "position": "C",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 84,
+      "3pt": 87,
+      "dunk": 90
+    }
+  },
+  {
+    "name": "Walker Kessler",
+    "team": "Utah Jazz",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 83,
+      "3pt": 60,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Collin Sexton",
+    "team": "Utah Jazz",
+    "position": "SG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 84,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Jordan Clarkson",
+    "team": "Utah Jazz",
+    "position": "",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 81,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Keyonte George",
+    "team": "Utah Jazz",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 77,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Kyle Filipowski",
+    "team": "Utah Jazz",
+    "position": "C",
+    "height": "Unknown",
+    "rating": {
+      "overall": 77,
+      "3pt": 74,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Taylor Hendricks",
+    "team": "Utah Jazz",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 81,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Isaiah Collier",
+    "team": "Utah Jazz",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 73,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Brice Sensabaugh",
+    "team": "Utah Jazz",
+    "position": "SF",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Utah Jazz",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "KJ Martin",
+    "team": "Utah Jazz",
+    "position": "PF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 73,
+      "dunk": 92
+    }
+  },
+  {
+    "name": "Svi Mykhailiuk",
+    "team": "Utah Jazz",
+    "position": "SG",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 80,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Johnny Juzang",
+    "team": "Utah Jazz",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 84,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Micah Potter",
+    "team": "Utah Jazz",
+    "position": "PF",
+    "height": "6'9\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 76,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jaden Springer",
+    "team": "Utah Jazz",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 53,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Cody Williams",
+    "team": "Utah Jazz",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 70,
+      "3pt": 60,
+      "dunk": 80
+    }
+  },
+  {
+    "name": "Oscar Tshiebwe",
+    "team": "Utah Jazz",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 37,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Elijah Harkless",
+    "team": "Utah Jazz",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 75,
+      "dunk": 51
+    }
+  },
+  {
+    "name": "Jordan Poole",
+    "team": "Washington Wizards",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 83,
+      "3pt": 84,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Khris Middleton",
+    "team": "Washington Wizards",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 82,
+      "3pt": 80,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 73,
+      "dunk": 85
+    }
+  },
+  {
+    "name": "Marcus Smart",
+    "team": "Washington Wizards",
+    "position": "PG",
+    "height": "6'3\"",
+    "rating": {
+      "overall": 81,
+      "3pt": 76,
+      "dunk": 50
+    }
+  },
+  {
+    "name": "Alexandre Sarr",
+    "team": "Washington Wizards",
+    "position": "PF",
+    "height": "7'1\"",
+    "rating": {
+      "overall": 80,
+      "3pt": 73,
+      "dunk": 82
+    }
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "team": "Washington Wizards",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 79,
+      "dunk": 70
+    }
+  },
+  {
+    "name": "Corey Kispert",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 79,
+      "3pt": 83,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "KyShawn George",
+    "team": "Washington Wizards",
+    "position": "SF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 78,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Bub Carrington",
+    "team": "Washington Wizards",
+    "position": "PG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 78,
+      "3pt": 80,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Saddiq Bey",
+    "team": "Washington Wizards",
+    "position": "SF",
+    "height": "6'7\"",
+    "rating": {
+      "overall": 77,
+      "3pt": 74,
+      "dunk": 60
+    }
+  },
+  {
+    "name": "Unknown",
+    "team": "Washington Wizards",
+    "position": "Unknown",
+    "height": "Unknown",
+    "rating": {
+      "overall": null,
+      "3pt": null,
+      "dunk": null
+    }
+  },
+  {
+    "name": "Justin Champagnie",
+    "team": "Washington Wizards",
+    "position": "SF",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 76,
+      "3pt": 83,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Richaun Holmes",
+    "team": "Washington Wizards",
+    "position": "C",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 75,
+      "3pt": 62,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "team": "Washington Wizards",
+    "position": "C",
+    "height": "6'10\"",
+    "rating": {
+      "overall": 73,
+      "3pt": 74,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Jaylen Nowell",
+    "team": "Washington Wizards",
+    "position": "PG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 72,
+      "3pt": 71,
+      "dunk": 65
+    }
+  },
+  {
+    "name": "Colby Jones",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 62,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Anthony Gill",
+    "team": "Washington Wizards",
+    "position": "PF",
+    "height": "6'8\"",
+    "rating": {
+      "overall": 71,
+      "3pt": 65,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "AJ Johnson",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'5\"",
+    "rating": {
+      "overall": 69,
+      "3pt": 74,
+      "dunk": 75
+    }
+  },
+  {
+    "name": "Erik Stevenson",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'4\"",
+    "rating": {
+      "overall": 68,
+      "3pt": 78,
+      "dunk": 55
+    }
+  },
+  {
+    "name": "Jaylen Martin",
+    "team": "Washington Wizards",
+    "position": "SG",
+    "height": "6'6\"",
+    "rating": {
+      "overall": 67,
+      "3pt": 50,
+      "dunk": 80
+    }
+  }
+]

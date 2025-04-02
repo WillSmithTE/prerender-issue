@@ -1,0 +1,3304 @@
+{
+  "Shai Gilgeous-Alexander": [
+    {
+      "teammate": "L. Dort",
+      "MIN": 1362.0
+    },
+    {
+      "teammate": "J. Williams",
+      "MIN": 1208.0
+    },
+    {
+      "teammate": "C. Wallace",
+      "MIN": 998.0
+    },
+    {
+      "teammate": "I. Joe",
+      "MIN": 751.0
+    },
+    {
+      "teammate": "I. Hartenstein",
+      "MIN": 750.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 750.0
+    },
+    {
+      "teammate": "A. Caruso",
+      "MIN": 435.0
+    },
+    {
+      "teammate": "K. Williams",
+      "MIN": 366.0
+    },
+    {
+      "teammate": "C. Holmgren",
+      "MIN": 342.0
+    },
+    {
+      "teammate": "J. Williams",
+      "MIN": 334.0
+    },
+    {
+      "teammate": "A. Mitchell",
+      "MIN": 202.0
+    },
+    {
+      "teammate": "D. Jones",
+      "MIN": 142.0
+    },
+    {
+      "teammate": "O. Dieng",
+      "MIN": 113.0
+    },
+    {
+      "teammate": "B. Carlson",
+      "MIN": 32.0
+    },
+    {
+      "teammate": "A. Flagler",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "A. Ducas",
+      "MIN": 2.0
+    }
+  ],
+  "Nikola Joki\u0107": [
+    {
+      "teammate": "C. Braun",
+      "MIN": 1513.0
+    },
+    {
+      "teammate": "M. Porter Jr.",
+      "MIN": 1396.0
+    },
+    {
+      "teammate": "J. Murray",
+      "MIN": 1266.0
+    },
+    {
+      "teammate": "R. Westbrook",
+      "MIN": 986.0
+    },
+    {
+      "teammate": "A. Gordon",
+      "MIN": 808.0
+    },
+    {
+      "teammate": "P. Watson",
+      "MIN": 644.0
+    },
+    {
+      "teammate": "J. Strawther",
+      "MIN": 624.0
+    },
+    {
+      "teammate": "Z. Nnaji",
+      "MIN": 142.0
+    },
+    {
+      "teammate": "J. Pickett",
+      "MIN": 131.0
+    },
+    {
+      "teammate": "H. Tyson",
+      "MIN": 114.0
+    },
+    {
+      "teammate": "T. Alexander",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "D. \u0160ari\u0107",
+      "MIN": 5.0
+    },
+    {
+      "teammate": "D. Jordan",
+      "MIN": 0.0
+    },
+    {
+      "teammate": "S. Jones",
+      "MIN": 0.0
+    }
+  ],
+  "Giannis Antetokounmpo": [
+    {
+      "teammate": "D. Lillard",
+      "MIN": 1068.0
+    },
+    {
+      "teammate": "B. Lopez",
+      "MIN": 1011.0
+    },
+    {
+      "teammate": "T. Prince",
+      "MIN": 976.0
+    },
+    {
+      "teammate": "G. Trent Jr.",
+      "MIN": 587.0
+    },
+    {
+      "teammate": "A. Jackson Jr.",
+      "MIN": 558.0
+    },
+    {
+      "teammate": "A. Green",
+      "MIN": 545.0
+    },
+    {
+      "teammate": "B. Portis",
+      "MIN": 430.0
+    },
+    {
+      "teammate": "K. Middleton",
+      "MIN": 342.0
+    },
+    {
+      "teammate": "D. Wright",
+      "MIN": 221.0
+    },
+    {
+      "teammate": "P. Connaughton",
+      "MIN": 217.0
+    },
+    {
+      "teammate": "R. Rollins",
+      "MIN": 180.0
+    },
+    {
+      "teammate": "K. Kuzma",
+      "MIN": 97.0
+    },
+    {
+      "teammate": "K. Porter Jr.",
+      "MIN": 25.0
+    },
+    {
+      "teammate": "J. Sims",
+      "MIN": 16.0
+    },
+    {
+      "teammate": "M. Beauchamp",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "C. Livingston",
+      "MIN": 1.0
+    },
+    {
+      "teammate": "S. Umude",
+      "MIN": 0.0
+    }
+  ],
+  "Luka Don\u010di\u0107": [
+    {
+      "teammate": "K. Thompson",
+      "MIN": 508.0
+    },
+    {
+      "teammate": "K. Irving",
+      "MIN": 501.0
+    },
+    {
+      "teammate": "P. Washington",
+      "MIN": 416.0
+    },
+    {
+      "teammate": "D. Gafford",
+      "MIN": 348.0
+    },
+    {
+      "teammate": "D. Lively II",
+      "MIN": 326.0
+    },
+    {
+      "teammate": "N. Marshall",
+      "MIN": 259.0
+    },
+    {
+      "teammate": "Q. Grimes",
+      "MIN": 228.0
+    },
+    {
+      "teammate": "S. Dinwiddie",
+      "MIN": 210.0
+    },
+    {
+      "teammate": "J. Hardy",
+      "MIN": 130.0
+    },
+    {
+      "teammate": "M. Kleber",
+      "MIN": 98.0
+    },
+    {
+      "teammate": "D. Powell",
+      "MIN": 69.0
+    },
+    {
+      "teammate": "O. Prosper",
+      "MIN": 44.0
+    },
+    {
+      "teammate": "K. Edwards",
+      "MIN": 2.0
+    }
+  ],
+  "Jayson Tatum": [
+    {
+      "teammate": "D. White",
+      "MIN": 1392.0
+    },
+    {
+      "teammate": "J. Brown",
+      "MIN": 1179.0
+    },
+    {
+      "teammate": "J. Holiday",
+      "MIN": 1101.0
+    },
+    {
+      "teammate": "P. Pritchard",
+      "MIN": 970.0
+    },
+    {
+      "teammate": "A. Horford",
+      "MIN": 915.0
+    },
+    {
+      "teammate": "K. Porzi\u0146\u0123is",
+      "MIN": 657.0
+    },
+    {
+      "teammate": "L. Kornet",
+      "MIN": 632.0
+    },
+    {
+      "teammate": "S. Hauser",
+      "MIN": 606.0
+    },
+    {
+      "teammate": "N. Queta",
+      "MIN": 361.0
+    },
+    {
+      "teammate": "J. Walsh",
+      "MIN": 125.0
+    },
+    {
+      "teammate": "X. Tillman",
+      "MIN": 71.0
+    },
+    {
+      "teammate": "J. Springer",
+      "MIN": 44.0
+    },
+    {
+      "teammate": "D. Peterson",
+      "MIN": 40.0
+    },
+    {
+      "teammate": "B. Scheierman",
+      "MIN": 28.0
+    },
+    {
+      "teammate": "T. Craig",
+      "MIN": 21.0
+    },
+    {
+      "teammate": "J. Davison",
+      "MIN": 4.0
+    }
+  ],
+  "Victor Wembanyama": [
+    {
+      "teammate": "C. Paul",
+      "MIN": 1152.0
+    },
+    {
+      "teammate": "H. Barnes",
+      "MIN": 957.0
+    },
+    {
+      "teammate": "S. Castle",
+      "MIN": 779.0
+    },
+    {
+      "teammate": "J. Champagnie",
+      "MIN": 761.0
+    },
+    {
+      "teammate": "D. Vassell",
+      "MIN": 715.0
+    },
+    {
+      "teammate": "K. Johnson",
+      "MIN": 554.0
+    },
+    {
+      "teammate": "J. Sochan",
+      "MIN": 483.0
+    },
+    {
+      "teammate": "T. Jones",
+      "MIN": 226.0
+    },
+    {
+      "teammate": "S. Mamukelashvili",
+      "MIN": 139.0
+    },
+    {
+      "teammate": "D. Fox",
+      "MIN": 120.0
+    },
+    {
+      "teammate": "B. Wesley",
+      "MIN": 115.0
+    },
+    {
+      "teammate": "M. Branham",
+      "MIN": 105.0
+    },
+    {
+      "teammate": "S. Cissoko",
+      "MIN": 1.0
+    }
+  ],
+  "Kevin Durant": [
+    {
+      "teammate": "D. Booker",
+      "MIN": 1091.0
+    },
+    {
+      "teammate": "T. Jones",
+      "MIN": 1040.0
+    },
+    {
+      "teammate": "B. Beal",
+      "MIN": 886.0
+    },
+    {
+      "teammate": "R. O'Neale",
+      "MIN": 737.0
+    },
+    {
+      "teammate": "G. Allen",
+      "MIN": 596.0
+    },
+    {
+      "teammate": "M. Plumlee",
+      "MIN": 526.0
+    },
+    {
+      "teammate": "R. Dunn",
+      "MIN": 489.0
+    },
+    {
+      "teammate": "J. Nurki\u0107",
+      "MIN": 422.0
+    },
+    {
+      "teammate": "N. Richards",
+      "MIN": 310.0
+    },
+    {
+      "teammate": "O. Ighodaro",
+      "MIN": 223.0
+    },
+    {
+      "teammate": "M. Morris",
+      "MIN": 170.0
+    },
+    {
+      "teammate": "B. Bol",
+      "MIN": 130.0
+    },
+    {
+      "teammate": "J. Okogie",
+      "MIN": 88.0
+    },
+    {
+      "teammate": "T. Washington Jr.",
+      "MIN": 28.0
+    },
+    {
+      "teammate": "C. Gillespie",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "D. Lee",
+      "MIN": 11.0
+    }
+  ],
+  "Stephen Curry": [
+    {
+      "teammate": "D. Green",
+      "MIN": 976.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 883.0
+    },
+    {
+      "teammate": "B. Hield",
+      "MIN": 709.0
+    },
+    {
+      "teammate": "G. Payton II",
+      "MIN": 489.0
+    },
+    {
+      "teammate": "T. Jackson-Davis",
+      "MIN": 477.0
+    },
+    {
+      "teammate": "K. Looney",
+      "MIN": 430.0
+    },
+    {
+      "teammate": "M. Moody",
+      "MIN": 422.0
+    },
+    {
+      "teammate": "B. Podziemski",
+      "MIN": 405.0
+    },
+    {
+      "teammate": "J. Kuminga",
+      "MIN": 369.0
+    },
+    {
+      "teammate": "D. Schr\u00f6der",
+      "MIN": 269.0
+    },
+    {
+      "teammate": "L. Waters III",
+      "MIN": 246.0
+    },
+    {
+      "teammate": "G. Santos",
+      "MIN": 185.0
+    },
+    {
+      "teammate": "K. Anderson",
+      "MIN": 154.0
+    },
+    {
+      "teammate": "J. Butler III",
+      "MIN": 149.0
+    },
+    {
+      "teammate": "Q. Post",
+      "MIN": 149.0
+    },
+    {
+      "teammate": "D. Melton",
+      "MIN": 47.0
+    },
+    {
+      "teammate": "P. Spencer",
+      "MIN": 27.0
+    },
+    {
+      "teammate": "J. Rowe",
+      "MIN": 11.0
+    },
+    {
+      "teammate": "K. Knox II",
+      "MIN": 5.0
+    }
+  ],
+  "Anthony Davis": [
+    {
+      "teammate": "A. Reaves",
+      "MIN": 1037.0
+    },
+    {
+      "teammate": "R. Hachimura",
+      "MIN": 906.0
+    },
+    {
+      "teammate": "L. James",
+      "MIN": 904.0
+    },
+    {
+      "teammate": "M. Christie",
+      "MIN": 801.0
+    },
+    {
+      "teammate": "D. Knecht",
+      "MIN": 541.0
+    },
+    {
+      "teammate": "D. Russell",
+      "MIN": 506.0
+    },
+    {
+      "teammate": "G. Vincent",
+      "MIN": 429.0
+    },
+    {
+      "teammate": "C. Reddish",
+      "MIN": 315.0
+    },
+    {
+      "teammate": "D. Finney-Smith",
+      "MIN": 167.0
+    },
+    {
+      "teammate": "J. Hayes",
+      "MIN": 70.0
+    },
+    {
+      "teammate": "S. Milton",
+      "MIN": 27.0
+    },
+    {
+      "teammate": "A. Traore",
+      "MIN": 20.0
+    },
+    {
+      "teammate": "J. Vanderbilt",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "J. Hood-Schifino",
+      "MIN": 13.0
+    },
+    {
+      "teammate": "B. James",
+      "MIN": 5.0
+    },
+    {
+      "teammate": "Q. Olivari",
+      "MIN": 2.0
+    },
+    {
+      "teammate": "C. Koloko",
+      "MIN": 0.0
+    }
+  ],
+  "Jalen Brunson": [
+    {
+      "teammate": "M. Bridges",
+      "MIN": 1738.0
+    },
+    {
+      "teammate": "J. Hart",
+      "MIN": 1636.0
+    },
+    {
+      "teammate": "O. Anunoby",
+      "MIN": 1558.0
+    },
+    {
+      "teammate": "K. Towns",
+      "MIN": 1301.0
+    },
+    {
+      "teammate": "M. McBride",
+      "MIN": 586.0
+    },
+    {
+      "teammate": "P. Achiuwa",
+      "MIN": 570.0
+    },
+    {
+      "teammate": "J. Sims",
+      "MIN": 304.0
+    },
+    {
+      "teammate": "C. Payne",
+      "MIN": 119.0
+    },
+    {
+      "teammate": "A. Hukporti",
+      "MIN": 101.0
+    },
+    {
+      "teammate": "L. Shamet",
+      "MIN": 89.0
+    },
+    {
+      "teammate": "P. Dadiet",
+      "MIN": 15.0
+    },
+    {
+      "teammate": "M. Ryan",
+      "MIN": 4.0
+    },
+    {
+      "teammate": "T. Kolek",
+      "MIN": 1.0
+    }
+  ],
+  "Anthony Edwards": [
+    {
+      "teammate": "J. McDaniels",
+      "MIN": 1599.0
+    },
+    {
+      "teammate": "R. Gobert",
+      "MIN": 1435.0
+    },
+    {
+      "teammate": "J. Randle",
+      "MIN": 1325.0
+    },
+    {
+      "teammate": "N. Reid",
+      "MIN": 1039.0
+    },
+    {
+      "teammate": "M. Conley",
+      "MIN": 951.0
+    },
+    {
+      "teammate": "N. Alexander-Walker",
+      "MIN": 890.0
+    },
+    {
+      "teammate": "D. DiVincenzo",
+      "MIN": 678.0
+    },
+    {
+      "teammate": "R. Dillingham",
+      "MIN": 184.0
+    },
+    {
+      "teammate": "J. Clark",
+      "MIN": 170.0
+    },
+    {
+      "teammate": "T. Shannon Jr.",
+      "MIN": 86.0
+    },
+    {
+      "teammate": "L. Garza",
+      "MIN": 63.0
+    },
+    {
+      "teammate": "J. Ingles",
+      "MIN": 45.0
+    },
+    {
+      "teammate": "J. Minott",
+      "MIN": 25.0
+    }
+  ],
+  "Donovan Mitchell": [
+    {
+      "teammate": "E. Mobley",
+      "MIN": 1327.0
+    },
+    {
+      "teammate": "J. Allen",
+      "MIN": 971.0
+    },
+    {
+      "teammate": "D. Garland",
+      "MIN": 857.0
+    },
+    {
+      "teammate": "G. Niang",
+      "MIN": 586.0
+    },
+    {
+      "teammate": "S. Merrill",
+      "MIN": 505.0
+    },
+    {
+      "teammate": "D. Wade",
+      "MIN": 491.0
+    },
+    {
+      "teammate": "T. Jerome",
+      "MIN": 490.0
+    },
+    {
+      "teammate": "M. Strus",
+      "MIN": 445.0
+    },
+    {
+      "teammate": "C. LeVert",
+      "MIN": 437.0
+    },
+    {
+      "teammate": "I. Okoro",
+      "MIN": 359.0
+    },
+    {
+      "teammate": "C. Porter Jr.",
+      "MIN": 105.0
+    },
+    {
+      "teammate": "J. Tyson",
+      "MIN": 101.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 95.0
+    },
+    {
+      "teammate": "T. Thompson",
+      "MIN": 65.0
+    },
+    {
+      "teammate": "L. Travers",
+      "MIN": 9.0
+    },
+    {
+      "teammate": "E. Bates",
+      "MIN": 0.0
+    }
+  ],
+  "LeBron James": [
+    {
+      "teammate": "A. Reaves",
+      "MIN": 1256.0
+    },
+    {
+      "teammate": "R. Hachimura",
+      "MIN": 1077.0
+    },
+    {
+      "teammate": "A. Davis",
+      "MIN": 904.0
+    },
+    {
+      "teammate": "D. Knecht",
+      "MIN": 660.0
+    },
+    {
+      "teammate": "M. Christie",
+      "MIN": 652.0
+    },
+    {
+      "teammate": "G. Vincent",
+      "MIN": 569.0
+    },
+    {
+      "teammate": "J. Hayes",
+      "MIN": 498.0
+    },
+    {
+      "teammate": "D. Russell",
+      "MIN": 464.0
+    },
+    {
+      "teammate": "D. Finney-Smith",
+      "MIN": 377.0
+    },
+    {
+      "teammate": "C. Reddish",
+      "MIN": 326.0
+    },
+    {
+      "teammate": "C. Koloko",
+      "MIN": 131.0
+    },
+    {
+      "teammate": "L. Don\u010di\u0107",
+      "MIN": 130.0
+    },
+    {
+      "teammate": "J. Vanderbilt",
+      "MIN": 93.0
+    },
+    {
+      "teammate": "S. Milton",
+      "MIN": 91.0
+    },
+    {
+      "teammate": "J. Goodwin",
+      "MIN": 49.0
+    },
+    {
+      "teammate": "T. Jemison III",
+      "MIN": 26.0
+    },
+    {
+      "teammate": "A. Len",
+      "MIN": 20.0
+    },
+    {
+      "teammate": "A. Traor\u00e9",
+      "MIN": 18.0
+    },
+    {
+      "teammate": "B. James",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "J. Hood-Schifino",
+      "MIN": 4.0
+    }
+  ],
+  "Jaylen Brown": [
+    {
+      "teammate": "D. White",
+      "MIN": 1297.0
+    },
+    {
+      "teammate": "J. Tatum",
+      "MIN": 1179.0
+    },
+    {
+      "teammate": "J. Holiday",
+      "MIN": 992.0
+    },
+    {
+      "teammate": "P. Pritchard",
+      "MIN": 727.0
+    },
+    {
+      "teammate": "A. Horford",
+      "MIN": 717.0
+    },
+    {
+      "teammate": "K. Porzi\u0146\u0123is",
+      "MIN": 681.0
+    },
+    {
+      "teammate": "L. Kornet",
+      "MIN": 429.0
+    },
+    {
+      "teammate": "S. Hauser",
+      "MIN": 371.0
+    },
+    {
+      "teammate": "N. Queta",
+      "MIN": 274.0
+    },
+    {
+      "teammate": "X. Tillman",
+      "MIN": 79.0
+    },
+    {
+      "teammate": "J. Walsh",
+      "MIN": 60.0
+    },
+    {
+      "teammate": "J. Springer",
+      "MIN": 36.0
+    },
+    {
+      "teammate": "D. Peterson",
+      "MIN": 21.0
+    },
+    {
+      "teammate": "T. Craig",
+      "MIN": 11.0
+    },
+    {
+      "teammate": "B. Scheierman",
+      "MIN": 8.0
+    }
+  ],
+  "Paolo Banchero": [
+    {
+      "teammate": "K. Caldwell-Pope",
+      "MIN": 603.0
+    },
+    {
+      "teammate": "W. Carter Jr.",
+      "MIN": 547.0
+    },
+    {
+      "teammate": "F. Wagner",
+      "MIN": 492.0
+    },
+    {
+      "teammate": "C. Anthony",
+      "MIN": 401.0
+    },
+    {
+      "teammate": "A. Black",
+      "MIN": 400.0
+    },
+    {
+      "teammate": "T. da Silva",
+      "MIN": 225.0
+    },
+    {
+      "teammate": "G. Bitadze",
+      "MIN": 210.0
+    },
+    {
+      "teammate": "G. Harris",
+      "MIN": 166.0
+    },
+    {
+      "teammate": "J. Suggs",
+      "MIN": 139.0
+    },
+    {
+      "teammate": "J. Isaac",
+      "MIN": 133.0
+    },
+    {
+      "teammate": "C. Houstan",
+      "MIN": 69.0
+    },
+    {
+      "teammate": "T. Queen",
+      "MIN": 67.0
+    },
+    {
+      "teammate": "J. Howard",
+      "MIN": 66.0
+    },
+    {
+      "teammate": "C. Joseph",
+      "MIN": 32.0
+    },
+    {
+      "teammate": "M. Wagner",
+      "MIN": 30.0
+    }
+  ],
+  "Ja Morant": [
+    {
+      "teammate": "J. Jackson Jr.",
+      "MIN": 706.0
+    },
+    {
+      "teammate": "J. Wells",
+      "MIN": 628.0
+    },
+    {
+      "teammate": "D. Bane",
+      "MIN": 581.0
+    },
+    {
+      "teammate": "Z. Edey",
+      "MIN": 461.0
+    },
+    {
+      "teammate": "S. Aldama",
+      "MIN": 440.0
+    },
+    {
+      "teammate": "B. Clarke",
+      "MIN": 384.0
+    },
+    {
+      "teammate": "J. LaRavia",
+      "MIN": 223.0
+    },
+    {
+      "teammate": "L. Kennard",
+      "MIN": 198.0
+    },
+    {
+      "teammate": "S. Pippen Jr.",
+      "MIN": 163.0
+    },
+    {
+      "teammate": "M. Smart",
+      "MIN": 159.0
+    },
+    {
+      "teammate": "J. Huff",
+      "MIN": 93.0
+    },
+    {
+      "teammate": "G. Jackson",
+      "MIN": 87.0
+    },
+    {
+      "teammate": "V. Williams Jr.",
+      "MIN": 55.0
+    },
+    {
+      "teammate": "J. Konchar",
+      "MIN": 44.0
+    }
+  ],
+  "Devin Booker": [
+    {
+      "teammate": "T. Jones",
+      "MIN": 1268.0
+    },
+    {
+      "teammate": "K. Durant",
+      "MIN": 1091.0
+    },
+    {
+      "teammate": "R. O'Neale",
+      "MIN": 896.0
+    },
+    {
+      "teammate": "B. Beal",
+      "MIN": 839.0
+    },
+    {
+      "teammate": "G. Allen",
+      "MIN": 770.0
+    },
+    {
+      "teammate": "M. Plumlee",
+      "MIN": 685.0
+    },
+    {
+      "teammate": "R. Dunn",
+      "MIN": 651.0
+    },
+    {
+      "teammate": "J. Nurki\u0107",
+      "MIN": 391.0
+    },
+    {
+      "teammate": "N. Richards",
+      "MIN": 379.0
+    },
+    {
+      "teammate": "O. Ighodaro",
+      "MIN": 368.0
+    },
+    {
+      "teammate": "M. Morris",
+      "MIN": 207.0
+    },
+    {
+      "teammate": "J. Okogie",
+      "MIN": 166.0
+    },
+    {
+      "teammate": "B. Bol",
+      "MIN": 150.0
+    },
+    {
+      "teammate": "T. Washington Jr.",
+      "MIN": 22.0
+    },
+    {
+      "teammate": "D. Lee",
+      "MIN": 17.0
+    },
+    {
+      "teammate": "C. Gillespie",
+      "MIN": 5.0
+    }
+  ],
+  "De'Aaron Fox": [
+    {
+      "teammate": "K. Murray",
+      "MIN": 1244.0
+    },
+    {
+      "teammate": "D. Sabonis",
+      "MIN": 1126.0
+    },
+    {
+      "teammate": "D. DeRozan",
+      "MIN": 1115.0
+    },
+    {
+      "teammate": "M. Monk",
+      "MIN": 811.0
+    },
+    {
+      "teammate": "K. Huerter",
+      "MIN": 569.0
+    },
+    {
+      "teammate": "K. Ellis",
+      "MIN": 519.0
+    },
+    {
+      "teammate": "T. Lyles",
+      "MIN": 507.0
+    },
+    {
+      "teammate": "A. Len",
+      "MIN": 181.0
+    },
+    {
+      "teammate": "D. McDermott",
+      "MIN": 177.0
+    },
+    {
+      "teammate": "I. Jones",
+      "MIN": 116.0
+    },
+    {
+      "teammate": "J. Crowder",
+      "MIN": 80.0
+    },
+    {
+      "teammate": "J. McLaughlin",
+      "MIN": 62.0
+    },
+    {
+      "teammate": "C. Jones",
+      "MIN": 57.0
+    },
+    {
+      "teammate": "D. Carter",
+      "MIN": 56.0
+    },
+    {
+      "teammate": "O. Robinson",
+      "MIN": 29.0
+    },
+    {
+      "teammate": "M. Jones",
+      "MIN": 2.0
+    }
+  ],
+  "Domantas Sabonis": [
+    {
+      "teammate": "D. DeRozan",
+      "MIN": 1566.0
+    },
+    {
+      "teammate": "K. Murray",
+      "MIN": 1441.0
+    },
+    {
+      "teammate": "M. Monk",
+      "MIN": 1372.0
+    },
+    {
+      "teammate": "D. Fox",
+      "MIN": 1126.0
+    },
+    {
+      "teammate": "K. Ellis",
+      "MIN": 870.0
+    },
+    {
+      "teammate": "K. Huerter",
+      "MIN": 543.0
+    },
+    {
+      "teammate": "T. Lyles",
+      "MIN": 343.0
+    },
+    {
+      "teammate": "Z. LaVine",
+      "MIN": 251.0
+    },
+    {
+      "teammate": "D. McDermott",
+      "MIN": 97.0
+    },
+    {
+      "teammate": "I. Jones",
+      "MIN": 53.0
+    },
+    {
+      "teammate": "J. McLaughlin",
+      "MIN": 53.0
+    },
+    {
+      "teammate": "D. Carter",
+      "MIN": 52.0
+    },
+    {
+      "teammate": "C. Jones",
+      "MIN": 41.0
+    },
+    {
+      "teammate": "J. Crowder",
+      "MIN": 39.0
+    },
+    {
+      "teammate": "J. LaRavia",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "M. Fultz",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "J. Valan\u010di\u016bnas",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "A. Len",
+      "MIN": 9.0
+    }
+  ],
+  "Jalen Williams": [
+    {
+      "teammate": "S. Gilgeous-Alexander",
+      "MIN": 1208.0
+    },
+    {
+      "teammate": "L. Dort",
+      "MIN": 1121.0
+    },
+    {
+      "teammate": "C. Wallace",
+      "MIN": 966.0
+    },
+    {
+      "teammate": "I. Hartenstein",
+      "MIN": 933.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 743.0
+    },
+    {
+      "teammate": "I. Joe",
+      "MIN": 577.0
+    },
+    {
+      "teammate": "A. Caruso",
+      "MIN": 398.0
+    },
+    {
+      "teammate": "C. Holmgren",
+      "MIN": 341.0
+    },
+    {
+      "teammate": "S. Gilgeous-Alexander",
+      "MIN": 334.0
+    },
+    {
+      "teammate": "A. Mitchell",
+      "MIN": 315.0
+    },
+    {
+      "teammate": "K. Williams",
+      "MIN": 288.0
+    },
+    {
+      "teammate": "I. Joe",
+      "MIN": 252.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 245.0
+    },
+    {
+      "teammate": "L. Dort",
+      "MIN": 210.0
+    },
+    {
+      "teammate": "C. Wallace",
+      "MIN": 166.0
+    },
+    {
+      "teammate": "K. Williams",
+      "MIN": 144.0
+    },
+    {
+      "teammate": "",
+      "MIN": 137.0
+    },
+    {
+      "teammate": "O. Dieng",
+      "MIN": 108.0
+    },
+    {
+      "teammate": "A. Caruso",
+      "MIN": 102.0
+    },
+    {
+      "teammate": "D. Jones",
+      "MIN": 100.0
+    },
+    {
+      "teammate": "O. Dieng",
+      "MIN": 71.0
+    },
+    {
+      "teammate": "D. Jones",
+      "MIN": 62.0
+    },
+    {
+      "teammate": "A. Ducas",
+      "MIN": 43.0
+    },
+    {
+      "teammate": "A. Mitchell",
+      "MIN": 41.0
+    },
+    {
+      "teammate": "A. Flagler",
+      "MIN": 29.0
+    },
+    {
+      "teammate": "B. Carlson",
+      "MIN": 19.0
+    },
+    {
+      "teammate": "C. Holmgren",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "B. Carlson",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "A. Flagler",
+      "MIN": 2.0
+    },
+    {
+      "teammate": "I. Hartenstein",
+      "MIN": 0.0
+    }
+  ],
+  "Evan Mobley": [
+    {
+      "teammate": "D. Mitchell",
+      "MIN": 1327.0
+    },
+    {
+      "teammate": "D. Garland",
+      "MIN": 839.0
+    },
+    {
+      "teammate": "J. Allen",
+      "MIN": 759.0
+    },
+    {
+      "teammate": "G. Niang",
+      "MIN": 511.0
+    },
+    {
+      "teammate": "T. Jerome",
+      "MIN": 460.0
+    },
+    {
+      "teammate": "C. LeVert",
+      "MIN": 454.0
+    },
+    {
+      "teammate": "S. Merrill",
+      "MIN": 442.0
+    },
+    {
+      "teammate": "D. Wade",
+      "MIN": 401.0
+    },
+    {
+      "teammate": "M. Strus",
+      "MIN": 396.0
+    },
+    {
+      "teammate": "I. Okoro",
+      "MIN": 323.0
+    },
+    {
+      "teammate": "C. Porter Jr.",
+      "MIN": 120.0
+    },
+    {
+      "teammate": "J. Tyson",
+      "MIN": 99.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 91.0
+    },
+    {
+      "teammate": "T. Thompson",
+      "MIN": 13.0
+    },
+    {
+      "teammate": "L. Travers",
+      "MIN": 5.0
+    },
+    {
+      "teammate": "E. Bates",
+      "MIN": 0.0
+    }
+  ],
+  "Franz Wagner": [
+    {
+      "teammate": "K. Caldwell-Pope",
+      "MIN": 944.0
+    },
+    {
+      "teammate": "G. Bitadze",
+      "MIN": 622.0
+    },
+    {
+      "teammate": "A. Black",
+      "MIN": 564.0
+    },
+    {
+      "teammate": "W. Carter Jr.",
+      "MIN": 535.0
+    },
+    {
+      "teammate": "J. Suggs",
+      "MIN": 525.0
+    },
+    {
+      "teammate": "T. da Silva",
+      "MIN": 499.0
+    },
+    {
+      "teammate": "P. Banchero",
+      "MIN": 492.0
+    },
+    {
+      "teammate": "J. Isaac",
+      "MIN": 346.0
+    },
+    {
+      "teammate": "C. Anthony",
+      "MIN": 343.0
+    },
+    {
+      "teammate": "M. Wagner",
+      "MIN": 236.0
+    },
+    {
+      "teammate": "J. Howard",
+      "MIN": 168.0
+    },
+    {
+      "teammate": "G. Harris",
+      "MIN": 149.0
+    },
+    {
+      "teammate": "C. Houstan",
+      "MIN": 21.0
+    },
+    {
+      "teammate": "T. Queen",
+      "MIN": 11.0
+    },
+    {
+      "teammate": "C. Joseph",
+      "MIN": 3.0
+    }
+  ],
+  "Kyrie Irving": [
+    {
+      "teammate": "K. Thompson",
+      "MIN": 966.0
+    },
+    {
+      "teammate": "P. Washington",
+      "MIN": 949.0
+    },
+    {
+      "teammate": "D. Gafford",
+      "MIN": 772.0
+    },
+    {
+      "teammate": "S. Dinwiddie",
+      "MIN": 702.0
+    },
+    {
+      "teammate": "N. Marshall",
+      "MIN": 685.0
+    },
+    {
+      "teammate": "Q. Grimes",
+      "MIN": 506.0
+    },
+    {
+      "teammate": "L. Don\u010di\u0107",
+      "MIN": 501.0
+    },
+    {
+      "teammate": "D. Lively II",
+      "MIN": 433.0
+    },
+    {
+      "teammate": "M. Kleber",
+      "MIN": 326.0
+    },
+    {
+      "teammate": "O. Prosper",
+      "MIN": 243.0
+    },
+    {
+      "teammate": "M. Christie",
+      "MIN": 235.0
+    },
+    {
+      "teammate": "K. Edwards",
+      "MIN": 193.0
+    },
+    {
+      "teammate": "J. Hardy",
+      "MIN": 182.0
+    },
+    {
+      "teammate": "D. Exum",
+      "MIN": 125.0
+    },
+    {
+      "teammate": "D. Powell",
+      "MIN": 111.0
+    },
+    {
+      "teammate": "M. Brown",
+      "MIN": 30.0
+    },
+    {
+      "teammate": "A. Davis",
+      "MIN": 25.0
+    },
+    {
+      "teammate": "B. Williams",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "K. Kelley",
+      "MIN": 9.0
+    },
+    {
+      "teammate": "J. Gortman",
+      "MIN": 8.0
+    },
+    {
+      "teammate": "M. Morris",
+      "MIN": 7.0
+    }
+  ],
+  "LaMelo Ball": [
+    {
+      "teammate": "M. Bridges",
+      "MIN": 658.0
+    },
+    {
+      "teammate": "J. Green",
+      "MIN": 656.0
+    },
+    {
+      "teammate": "C. Martin",
+      "MIN": 478.0
+    },
+    {
+      "teammate": "B. Miller",
+      "MIN": 466.0
+    },
+    {
+      "teammate": "M. Diabat\u00e9",
+      "MIN": 342.0
+    },
+    {
+      "teammate": "G. Williams",
+      "MIN": 328.0
+    },
+    {
+      "teammate": "T. Sala\u00fcn",
+      "MIN": 293.0
+    },
+    {
+      "teammate": "M. Williams",
+      "MIN": 277.0
+    },
+    {
+      "teammate": "S. Curry",
+      "MIN": 253.0
+    },
+    {
+      "teammate": "N. Smith Jr.",
+      "MIN": 247.0
+    },
+    {
+      "teammate": "N. Richards",
+      "MIN": 181.0
+    },
+    {
+      "teammate": "T. Mann",
+      "MIN": 122.0
+    },
+    {
+      "teammate": "T. Gibson",
+      "MIN": 121.0
+    },
+    {
+      "teammate": "D. Jeffries",
+      "MIN": 59.0
+    },
+    {
+      "teammate": "V. Mici\u0107",
+      "MIN": 47.0
+    },
+    {
+      "teammate": "J. Okogie",
+      "MIN": 36.0
+    },
+    {
+      "teammate": "J. Nurki\u0107",
+      "MIN": 34.0
+    },
+    {
+      "teammate": "I. Wong",
+      "MIN": 18.0
+    },
+    {
+      "teammate": "D. Baugh",
+      "MIN": 15.0
+    },
+    {
+      "teammate": "K. Simpson",
+      "MIN": 8.0
+    },
+    {
+      "teammate": "W. Moore Jr.",
+      "MIN": 6.0
+    },
+    {
+      "teammate": "E. Payton",
+      "MIN": 1.0
+    },
+    {
+      "teammate": "J. Rhoden",
+      "MIN": 1.0
+    }
+  ],
+  "Tyrese Haliburton": [
+    {
+      "teammate": "M. Turner",
+      "MIN": 1341.0
+    },
+    {
+      "teammate": "P. Siakam",
+      "MIN": 1341.0
+    },
+    {
+      "teammate": "B. Mathurin",
+      "MIN": 1271.0
+    },
+    {
+      "teammate": "A. Nembhard",
+      "MIN": 1006.0
+    },
+    {
+      "teammate": "O. Toppin",
+      "MIN": 645.0
+    },
+    {
+      "teammate": "J. Walker",
+      "MIN": 382.0
+    },
+    {
+      "teammate": "B. Sheppard",
+      "MIN": 380.0
+    },
+    {
+      "teammate": "A. Nesmith",
+      "MIN": 352.0
+    },
+    {
+      "teammate": "T. McConnell",
+      "MIN": 332.0
+    },
+    {
+      "teammate": "T. Bryant",
+      "MIN": 220.0
+    },
+    {
+      "teammate": "Q. Jackson",
+      "MIN": 179.0
+    },
+    {
+      "teammate": "J. Furphy",
+      "MIN": 60.0
+    },
+    {
+      "teammate": "E. Freeman",
+      "MIN": 49.0
+    },
+    {
+      "teammate": "I. Jackson",
+      "MIN": 42.0
+    },
+    {
+      "teammate": "M. Brown",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "J. Wiseman",
+      "MIN": 4.0
+    }
+  ],
+  "Damian Lillard": [
+    {
+      "teammate": "B. Lopez",
+      "MIN": 1433.0
+    },
+    {
+      "teammate": "T. Prince",
+      "MIN": 1090.0
+    },
+    {
+      "teammate": "G. Antetokounmpo",
+      "MIN": 1068.0
+    },
+    {
+      "teammate": "G. Trent Jr.",
+      "MIN": 759.0
+    },
+    {
+      "teammate": "B. Portis",
+      "MIN": 645.0
+    },
+    {
+      "teammate": "A. Jackson Jr.",
+      "MIN": 598.0
+    },
+    {
+      "teammate": "A. Green",
+      "MIN": 584.0
+    },
+    {
+      "teammate": "K. Middleton",
+      "MIN": 304.0
+    },
+    {
+      "teammate": "P. Connaughton",
+      "MIN": 192.0
+    },
+    {
+      "teammate": "K. Kuzma",
+      "MIN": 176.0
+    },
+    {
+      "teammate": "R. Rollins",
+      "MIN": 62.0
+    },
+    {
+      "teammate": "D. Wright",
+      "MIN": 45.0
+    },
+    {
+      "teammate": "M. Beauchamp",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "J. Sims",
+      "MIN": 11.0
+    },
+    {
+      "teammate": "K. Porter Jr.",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "T. Smith",
+      "MIN": 1.0
+    }
+  ],
+  "Cade Cunningham": [
+    {
+      "teammate": "T. Harris",
+      "MIN": 1418.0
+    },
+    {
+      "teammate": "T. Hardaway Jr.",
+      "MIN": 1270.0
+    },
+    {
+      "teammate": "J. Duren",
+      "MIN": 1186.0
+    },
+    {
+      "teammate": "M. Beasley",
+      "MIN": 949.0
+    },
+    {
+      "teammate": "I. Stewart",
+      "MIN": 582.0
+    },
+    {
+      "teammate": "A. Thompson",
+      "MIN": 576.0
+    },
+    {
+      "teammate": "J. Ivey",
+      "MIN": 520.0
+    },
+    {
+      "teammate": "R. Holland II",
+      "MIN": 401.0
+    },
+    {
+      "teammate": "S. Fontecchio",
+      "MIN": 391.0
+    },
+    {
+      "teammate": "M. Sasser",
+      "MIN": 139.0
+    },
+    {
+      "teammate": "P. Reed",
+      "MIN": 119.0
+    },
+    {
+      "teammate": "W. Moore Jr.",
+      "MIN": 74.0
+    },
+    {
+      "teammate": "D. Schr\u00f6der",
+      "MIN": 38.0
+    }
+  ],
+  "Trae Young": [
+    {
+      "teammate": "D. Daniels",
+      "MIN": 1398.0
+    },
+    {
+      "teammate": "J. Johnson",
+      "MIN": 924.0
+    },
+    {
+      "teammate": "Z. Risacher",
+      "MIN": 888.0
+    },
+    {
+      "teammate": "O. Okongwu",
+      "MIN": 885.0
+    },
+    {
+      "teammate": "C. Capela",
+      "MIN": 878.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 726.0
+    },
+    {
+      "teammate": "G. Mathews",
+      "MIN": 448.0
+    },
+    {
+      "teammate": "V. Krej\u010d\u00ed",
+      "MIN": 395.0
+    },
+    {
+      "teammate": "B. Bogdanovi\u0107",
+      "MIN": 318.0
+    },
+    {
+      "teammate": "L. Nance Jr.",
+      "MIN": 272.0
+    },
+    {
+      "teammate": "D. Roddy",
+      "MIN": 181.0
+    },
+    {
+      "teammate": "G. Niang",
+      "MIN": 141.0
+    },
+    {
+      "teammate": "C. LeVert",
+      "MIN": 135.0
+    },
+    {
+      "teammate": "M. Gueye",
+      "MIN": 118.0
+    },
+    {
+      "teammate": "T. Mann",
+      "MIN": 108.0
+    },
+    {
+      "teammate": "D. Barlow",
+      "MIN": 81.0
+    },
+    {
+      "teammate": "K. Wallace",
+      "MIN": 78.0
+    },
+    {
+      "teammate": "D. Plowden",
+      "MIN": 7.0
+    }
+  ],
+  "Tyrese Maxey": [
+    {
+      "teammate": "K. Oubre Jr.",
+      "MIN": 1430.0
+    },
+    {
+      "teammate": "G. Yabusele",
+      "MIN": 1027.0
+    },
+    {
+      "teammate": "P. George",
+      "MIN": 860.0
+    },
+    {
+      "teammate": "C. Martin",
+      "MIN": 630.0
+    },
+    {
+      "teammate": "E. Gordon",
+      "MIN": 548.0
+    },
+    {
+      "teammate": "J. Edwards",
+      "MIN": 429.0
+    },
+    {
+      "teammate": "R. Council IV",
+      "MIN": 422.0
+    },
+    {
+      "teammate": "A. Drummond",
+      "MIN": 396.0
+    },
+    {
+      "teammate": "J. Embiid",
+      "MIN": 389.0
+    },
+    {
+      "teammate": "K. Martin",
+      "MIN": 301.0
+    },
+    {
+      "teammate": "K. Lowry",
+      "MIN": 284.0
+    },
+    {
+      "teammate": "J. McCain",
+      "MIN": 248.0
+    },
+    {
+      "teammate": "A. Bona",
+      "MIN": 234.0
+    },
+    {
+      "teammate": "Q. Grimes",
+      "MIN": 162.0
+    },
+    {
+      "teammate": "R. Jackson",
+      "MIN": 105.0
+    },
+    {
+      "teammate": "J. Dowtin Jr.",
+      "MIN": 51.0
+    },
+    {
+      "teammate": "P. Nance",
+      "MIN": 32.0
+    },
+    {
+      "teammate": "L. Walker IV",
+      "MIN": 22.0
+    },
+    {
+      "teammate": "D. Roddy",
+      "MIN": 11.0
+    },
+    {
+      "teammate": "J. Butler",
+      "MIN": 8.0
+    },
+    {
+      "teammate": "L. Quinones",
+      "MIN": 0.0
+    }
+  ],
+  "Jaren Jackson Jr.": [
+    {
+      "teammate": "J. Wells",
+      "MIN": 949.0
+    },
+    {
+      "teammate": "D. Bane",
+      "MIN": 909.0
+    },
+    {
+      "teammate": "J. Morant",
+      "MIN": 706.0
+    },
+    {
+      "teammate": "S. Pippen Jr.",
+      "MIN": 701.0
+    },
+    {
+      "teammate": "B. Clarke",
+      "MIN": 598.0
+    },
+    {
+      "teammate": "Z. Edey",
+      "MIN": 578.0
+    },
+    {
+      "teammate": "L. Kennard",
+      "MIN": 554.0
+    },
+    {
+      "teammate": "J. LaRavia",
+      "MIN": 435.0
+    },
+    {
+      "teammate": "S. Aldama",
+      "MIN": 422.0
+    },
+    {
+      "teammate": "M. Smart",
+      "MIN": 212.0
+    },
+    {
+      "teammate": "J. Konchar",
+      "MIN": 204.0
+    },
+    {
+      "teammate": "J. Huff",
+      "MIN": 143.0
+    },
+    {
+      "teammate": "G. Jackson",
+      "MIN": 101.0
+    },
+    {
+      "teammate": "V. Williams Jr.",
+      "MIN": 76.0
+    },
+    {
+      "teammate": "C. Spencer",
+      "MIN": 56.0
+    },
+    {
+      "teammate": "C. Castleton",
+      "MIN": 3.0
+    },
+    {
+      "teammate": "Y. Kawamura",
+      "MIN": 1.0
+    }
+  ],
+  "Bam Adebayo": [
+    {
+      "teammate": "T. Herro",
+      "MIN": 1421.0
+    },
+    {
+      "teammate": "T. Rozier",
+      "MIN": 965.0
+    },
+    {
+      "teammate": "D. Robinson",
+      "MIN": 908.0
+    },
+    {
+      "teammate": "H. Highsmith",
+      "MIN": 885.0
+    },
+    {
+      "teammate": "N. Jovi\u0107",
+      "MIN": 688.0
+    },
+    {
+      "teammate": "J. Jaquez Jr.",
+      "MIN": 587.0
+    },
+    {
+      "teammate": "J. Butler",
+      "MIN": 550.0
+    },
+    {
+      "teammate": "A. Burks",
+      "MIN": 293.0
+    },
+    {
+      "teammate": "K. Ware",
+      "MIN": 272.0
+    },
+    {
+      "teammate": "P. Larsson",
+      "MIN": 243.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 184.0
+    },
+    {
+      "teammate": "D. Smith",
+      "MIN": 167.0
+    },
+    {
+      "teammate": "D. Mitchell",
+      "MIN": 154.0
+    },
+    {
+      "teammate": "J. Richardson",
+      "MIN": 101.0
+    },
+    {
+      "teammate": "K. Love",
+      "MIN": 64.0
+    },
+    {
+      "teammate": "K. Anderson",
+      "MIN": 32.0
+    },
+    {
+      "teammate": "K. Johnson",
+      "MIN": 3.0
+    },
+    {
+      "teammate": "J. Christopher",
+      "MIN": 1.0
+    }
+  ],
+  "Darius Garland": [
+    {
+      "teammate": "J. Allen",
+      "MIN": 1416.0
+    },
+    {
+      "teammate": "D. Mitchell",
+      "MIN": 857.0
+    },
+    {
+      "teammate": "E. Mobley",
+      "MIN": 839.0
+    },
+    {
+      "teammate": "D. Wade",
+      "MIN": 600.0
+    },
+    {
+      "teammate": "C. LeVert",
+      "MIN": 582.0
+    },
+    {
+      "teammate": "M. Strus",
+      "MIN": 454.0
+    },
+    {
+      "teammate": "I. Okoro",
+      "MIN": 388.0
+    },
+    {
+      "teammate": "G. Niang",
+      "MIN": 383.0
+    },
+    {
+      "teammate": "S. Merrill",
+      "MIN": 376.0
+    },
+    {
+      "teammate": "T. Jerome",
+      "MIN": 371.0
+    },
+    {
+      "teammate": "J. Tyson",
+      "MIN": 86.0
+    },
+    {
+      "teammate": "C. Porter Jr.",
+      "MIN": 78.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 49.0
+    },
+    {
+      "teammate": "T. Thompson",
+      "MIN": 16.0
+    },
+    {
+      "teammate": "E. Bates",
+      "MIN": 3.0
+    },
+    {
+      "teammate": "L. Travers",
+      "MIN": 2.0
+    }
+  ],
+  "James Harden": [
+    {
+      "teammate": "I. Zubac",
+      "MIN": 1449.0
+    },
+    {
+      "teammate": "D. Jones Jr.",
+      "MIN": 1218.0
+    },
+    {
+      "teammate": "N. Powell",
+      "MIN": 1185.0
+    },
+    {
+      "teammate": "K. Dunn",
+      "MIN": 908.0
+    },
+    {
+      "teammate": "A. Coffey",
+      "MIN": 830.0
+    },
+    {
+      "teammate": "N. Batum",
+      "MIN": 503.0
+    },
+    {
+      "teammate": "T. Mann",
+      "MIN": 404.0
+    },
+    {
+      "teammate": "K. Leonard",
+      "MIN": 328.0
+    },
+    {
+      "teammate": "K. Porter Jr.",
+      "MIN": 306.0
+    },
+    {
+      "teammate": "M. Bamba",
+      "MIN": 144.0
+    },
+    {
+      "teammate": "B. Bogdanovi\u0107",
+      "MIN": 102.0
+    },
+    {
+      "teammate": "B. Simmons",
+      "MIN": 56.0
+    },
+    {
+      "teammate": "K. Jones",
+      "MIN": 48.0
+    },
+    {
+      "teammate": "J. Miller",
+      "MIN": 43.0
+    },
+    {
+      "teammate": "K. Brown",
+      "MIN": 26.0
+    },
+    {
+      "teammate": "D. Eubanks",
+      "MIN": 19.0
+    },
+    {
+      "teammate": "P. Mills",
+      "MIN": 8.0
+    },
+    {
+      "teammate": "B. Hyland",
+      "MIN": 6.0
+    },
+    {
+      "teammate": "M. Beauchamp",
+      "MIN": 4.0
+    },
+    {
+      "teammate": "C. Christie",
+      "MIN": 3.0
+    }
+  ],
+  "Chet Holmgren": [
+    {
+      "teammate": "S. Gilgeous-Alexander",
+      "MIN": 342.0
+    },
+    {
+      "teammate": "J. Williams",
+      "MIN": 341.0
+    },
+    {
+      "teammate": "L. Dort",
+      "MIN": 300.0
+    },
+    {
+      "teammate": "A. Wiggins",
+      "MIN": 152.0
+    },
+    {
+      "teammate": "I. Joe",
+      "MIN": 152.0
+    },
+    {
+      "teammate": "C. Wallace",
+      "MIN": 151.0
+    },
+    {
+      "teammate": "A. Caruso",
+      "MIN": 97.0
+    },
+    {
+      "teammate": "I. Hartenstein",
+      "MIN": 90.0
+    },
+    {
+      "teammate": "A. Mitchell",
+      "MIN": 64.0
+    },
+    {
+      "teammate": "K. Williams",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "J. Williams",
+      "MIN": 10.0
+    },
+    {
+      "teammate": "O. Dieng",
+      "MIN": 5.0
+    },
+    {
+      "teammate": "D. Jones",
+      "MIN": 1.0
+    }
+  ],
+  "Kawhi Leonard": [
+    {
+      "teammate": "I. Zubac",
+      "MIN": 369.0
+    },
+    {
+      "teammate": "J. Harden",
+      "MIN": 328.0
+    },
+    {
+      "teammate": "N. Powell",
+      "MIN": 307.0
+    },
+    {
+      "teammate": "D. Jones Jr.",
+      "MIN": 234.0
+    },
+    {
+      "teammate": "A. Coffey",
+      "MIN": 159.0
+    },
+    {
+      "teammate": "K. Dunn",
+      "MIN": 149.0
+    },
+    {
+      "teammate": "K. Porter Jr.",
+      "MIN": 72.0
+    },
+    {
+      "teammate": "N. Batum",
+      "MIN": 72.0
+    },
+    {
+      "teammate": "T. Mann",
+      "MIN": 53.0
+    },
+    {
+      "teammate": "B. Bogdanovi\u0107",
+      "MIN": 30.0
+    },
+    {
+      "teammate": "B. Simmons",
+      "MIN": 17.0
+    },
+    {
+      "teammate": "M. Bamba",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "D. Eubanks",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "K. Brown",
+      "MIN": 4.0
+    }
+  ],
+  "Alperen Sengun": [
+    {
+      "teammate": "J. Green",
+      "MIN": 1339.0
+    },
+    {
+      "teammate": "D. Brooks",
+      "MIN": 1316.0
+    },
+    {
+      "teammate": "F. VanVleet",
+      "MIN": 1125.0
+    },
+    {
+      "teammate": "A. Thompson",
+      "MIN": 988.0
+    },
+    {
+      "teammate": "J. Smith Jr.",
+      "MIN": 890.0
+    },
+    {
+      "teammate": "T. Eason",
+      "MIN": 444.0
+    },
+    {
+      "teammate": "C. Whitmore",
+      "MIN": 226.0
+    },
+    {
+      "teammate": "A. Holiday",
+      "MIN": 215.0
+    },
+    {
+      "teammate": "R. Sheppard",
+      "MIN": 181.0
+    },
+    {
+      "teammate": "J. Tate",
+      "MIN": 140.0
+    },
+    {
+      "teammate": "J. Green",
+      "MIN": 76.0
+    },
+    {
+      "teammate": "S. Adams",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "N. Williams",
+      "MIN": 5.0
+    }
+  ],
+  "Pascal Siakam": [
+    {
+      "teammate": "T. Haliburton",
+      "MIN": 1341.0
+    },
+    {
+      "teammate": "B. Mathurin",
+      "MIN": 1217.0
+    },
+    {
+      "teammate": "M. Turner",
+      "MIN": 1124.0
+    },
+    {
+      "teammate": "A. Nembhard",
+      "MIN": 863.0
+    },
+    {
+      "teammate": "T. McConnell",
+      "MIN": 622.0
+    },
+    {
+      "teammate": "B. Sheppard",
+      "MIN": 552.0
+    },
+    {
+      "teammate": "J. Walker",
+      "MIN": 442.0
+    },
+    {
+      "teammate": "O. Toppin",
+      "MIN": 369.0
+    },
+    {
+      "teammate": "A. Nesmith",
+      "MIN": 358.0
+    },
+    {
+      "teammate": "T. Bryant",
+      "MIN": 252.0
+    },
+    {
+      "teammate": "Q. Jackson",
+      "MIN": 164.0
+    },
+    {
+      "teammate": "J. Furphy",
+      "MIN": 114.0
+    },
+    {
+      "teammate": "E. Freeman",
+      "MIN": 48.0
+    },
+    {
+      "teammate": "I. Jackson",
+      "MIN": 38.0
+    },
+    {
+      "teammate": "M. Brown",
+      "MIN": 19.0
+    },
+    {
+      "teammate": "J. Wiseman",
+      "MIN": 2.0
+    }
+  ],
+  "Jimmy Butler": [
+    {
+      "teammate": "T. Herro",
+      "MIN": 570.0
+    },
+    {
+      "teammate": "B. Adebayo",
+      "MIN": 550.0
+    },
+    {
+      "teammate": "D. Robinson",
+      "MIN": 409.0
+    },
+    {
+      "teammate": "H. Highsmith",
+      "MIN": 340.0
+    },
+    {
+      "teammate": "T. Rozier",
+      "MIN": 293.0
+    },
+    {
+      "teammate": "N. Jovi\u0107",
+      "MIN": 179.0
+    },
+    {
+      "teammate": "J. Jaquez Jr.",
+      "MIN": 139.0
+    },
+    {
+      "teammate": "A. Burks",
+      "MIN": 117.0
+    },
+    {
+      "teammate": "P. Larsson",
+      "MIN": 104.0
+    },
+    {
+      "teammate": "D. Smith",
+      "MIN": 100.0
+    },
+    {
+      "teammate": "K. Love",
+      "MIN": 100.0
+    },
+    {
+      "teammate": "K. Ware",
+      "MIN": 69.0
+    },
+    {
+      "teammate": "T. Bryant",
+      "MIN": 63.0
+    },
+    {
+      "teammate": "J. Richardson",
+      "MIN": 31.0
+    }
+  ],
+  "Derrick White": [
+    {
+      "teammate": "J. Tatum",
+      "MIN": 1392.0
+    },
+    {
+      "teammate": "J. Brown",
+      "MIN": 1297.0
+    },
+    {
+      "teammate": "J. Holiday",
+      "MIN": 1000.0
+    },
+    {
+      "teammate": "A. Horford",
+      "MIN": 822.0
+    },
+    {
+      "teammate": "P. Pritchard",
+      "MIN": 806.0
+    },
+    {
+      "teammate": "K. Porzi\u0146\u0123is",
+      "MIN": 719.0
+    },
+    {
+      "teammate": "S. Hauser",
+      "MIN": 483.0
+    },
+    {
+      "teammate": "L. Kornet",
+      "MIN": 454.0
+    },
+    {
+      "teammate": "N. Queta",
+      "MIN": 341.0
+    },
+    {
+      "teammate": "J. Walsh",
+      "MIN": 76.0
+    },
+    {
+      "teammate": "X. Tillman",
+      "MIN": 54.0
+    },
+    {
+      "teammate": "J. Springer",
+      "MIN": 37.0
+    },
+    {
+      "teammate": "T. Craig",
+      "MIN": 21.0
+    },
+    {
+      "teammate": "D. Peterson",
+      "MIN": 16.0
+    },
+    {
+      "teammate": "B. Scheierman",
+      "MIN": 9.0
+    }
+  ],
+  "Joel Embiid": [
+    {
+      "teammate": "P. George",
+      "MIN": 411.0
+    },
+    {
+      "teammate": "K. Oubre Jr.",
+      "MIN": 396.0
+    },
+    {
+      "teammate": "T. Maxey",
+      "MIN": 389.0
+    },
+    {
+      "teammate": "C. Martin",
+      "MIN": 219.0
+    },
+    {
+      "teammate": "G. Yabusele",
+      "MIN": 186.0
+    },
+    {
+      "teammate": "J. McCain",
+      "MIN": 117.0
+    },
+    {
+      "teammate": "K. Lowry",
+      "MIN": 113.0
+    },
+    {
+      "teammate": "Q. Grimes",
+      "MIN": 91.0
+    },
+    {
+      "teammate": "J. Edwards",
+      "MIN": 86.0
+    },
+    {
+      "teammate": "R. Council IV",
+      "MIN": 64.0
+    },
+    {
+      "teammate": "R. Jackson",
+      "MIN": 62.0
+    },
+    {
+      "teammate": "K. Martin",
+      "MIN": 54.0
+    },
+    {
+      "teammate": "E. Gordon",
+      "MIN": 42.0
+    },
+    {
+      "teammate": "J. Dowtin Jr.",
+      "MIN": 28.0
+    },
+    {
+      "teammate": "J. Butler",
+      "MIN": 27.0
+    },
+    {
+      "teammate": "L. Walker IV",
+      "MIN": 6.0
+    },
+    {
+      "teammate": "D. Roddy",
+      "MIN": 5.0
+    },
+    {
+      "teammate": "A. Bona",
+      "MIN": 2.0
+    },
+    {
+      "teammate": "A. Drummond",
+      "MIN": 1.0
+    }
+  ],
+  "Jalen Johnson": [
+    {
+      "teammate": "T. Young",
+      "MIN": 924.0
+    },
+    {
+      "teammate": "D. Daniels",
+      "MIN": 743.0
+    },
+    {
+      "teammate": "C. Capela",
+      "MIN": 639.0
+    },
+    {
+      "teammate": "Z. Risacher",
+      "MIN": 566.0
+    },
+    {
+      "teammate": "O. Okongwu",
+      "MIN": 497.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 474.0
+    },
+    {
+      "teammate": "G. Mathews",
+      "MIN": 281.0
+    },
+    {
+      "teammate": "B. Bogdanovi\u0107",
+      "MIN": 262.0
+    },
+    {
+      "teammate": "V. Krej\u010d\u00ed",
+      "MIN": 225.0
+    },
+    {
+      "teammate": "K. Wallace",
+      "MIN": 163.0
+    },
+    {
+      "teammate": "L. Nance Jr.",
+      "MIN": 162.0
+    },
+    {
+      "teammate": "K. Bufkin",
+      "MIN": 101.0
+    },
+    {
+      "teammate": "D. Roddy",
+      "MIN": 95.0
+    },
+    {
+      "teammate": "D. Barlow",
+      "MIN": 5.0
+    }
+  ],
+  "Lauri Markkanen": [
+    {
+      "teammate": "W. Kessler",
+      "MIN": 906.0
+    },
+    {
+      "teammate": "C. Sexton",
+      "MIN": 845.0
+    },
+    {
+      "teammate": "K. George",
+      "MIN": 754.0
+    },
+    {
+      "teammate": "J. Collins",
+      "MIN": 606.0
+    },
+    {
+      "teammate": "I. Collier",
+      "MIN": 495.0
+    },
+    {
+      "teammate": "J. Clarkson",
+      "MIN": 465.0
+    },
+    {
+      "teammate": "J. Juzang",
+      "MIN": 254.0
+    },
+    {
+      "teammate": "K. Filipowski",
+      "MIN": 250.0
+    },
+    {
+      "teammate": "C. Williams",
+      "MIN": 232.0
+    },
+    {
+      "teammate": "B. Sensabaugh",
+      "MIN": 217.0
+    },
+    {
+      "teammate": "D. Eubanks",
+      "MIN": 125.0
+    },
+    {
+      "teammate": "S. Mykhailiuk",
+      "MIN": 113.0
+    },
+    {
+      "teammate": "M. Potter",
+      "MIN": 89.0
+    },
+    {
+      "teammate": "P. Mills",
+      "MIN": 58.0
+    },
+    {
+      "teammate": "T. Hendricks",
+      "MIN": 54.0
+    },
+    {
+      "teammate": "E. Harkless",
+      "MIN": 24.0
+    },
+    {
+      "teammate": "K. Martin",
+      "MIN": 24.0
+    },
+    {
+      "teammate": "J. Springer",
+      "MIN": 7.0
+    }
+  ],
+  "Zach LaVine": [
+    {
+      "teammate": "N. Vu\u010devi\u0107",
+      "MIN": 1268.0
+    },
+    {
+      "teammate": "J. Giddey",
+      "MIN": 860.0
+    },
+    {
+      "teammate": "C. White",
+      "MIN": 767.0
+    },
+    {
+      "teammate": "P. Williams",
+      "MIN": 709.0
+    },
+    {
+      "teammate": "A. Dosunmu",
+      "MIN": 661.0
+    },
+    {
+      "teammate": "L. Ball",
+      "MIN": 388.0
+    },
+    {
+      "teammate": "J. Phillips",
+      "MIN": 266.0
+    },
+    {
+      "teammate": "M. Buzelis",
+      "MIN": 263.0
+    },
+    {
+      "teammate": "D. Terry",
+      "MIN": 166.0
+    },
+    {
+      "teammate": "J. Smith",
+      "MIN": 148.0
+    },
+    {
+      "teammate": "T. Horton-Tucker",
+      "MIN": 122.0
+    },
+    {
+      "teammate": "T. Craig",
+      "MIN": 57.0
+    },
+    {
+      "teammate": "J. Carter",
+      "MIN": 34.0
+    },
+    {
+      "teammate": "C. Duarte",
+      "MIN": 9.0
+    },
+    {
+      "teammate": "E. Liddell",
+      "MIN": 6.0
+    },
+    {
+      "teammate": "A. Sanogo",
+      "MIN": 5.0
+    }
+  ],
+  "OG Anunoby": [
+    {
+      "teammate": "J. Brunson",
+      "MIN": 1558.0
+    },
+    {
+      "teammate": "M. Bridges",
+      "MIN": 1546.0
+    },
+    {
+      "teammate": "J. Hart",
+      "MIN": 1468.0
+    },
+    {
+      "teammate": "K. Towns",
+      "MIN": 1240.0
+    },
+    {
+      "teammate": "M. McBride",
+      "MIN": 553.0
+    },
+    {
+      "teammate": "P. Achiuwa",
+      "MIN": 353.0
+    },
+    {
+      "teammate": "C. Payne",
+      "MIN": 341.0
+    },
+    {
+      "teammate": "J. Sims",
+      "MIN": 283.0
+    },
+    {
+      "teammate": "L. Shamet",
+      "MIN": 69.0
+    },
+    {
+      "teammate": "A. Hukporti",
+      "MIN": 65.0
+    },
+    {
+      "teammate": "T. Kolek",
+      "MIN": 28.0
+    },
+    {
+      "teammate": "P. Dadiet",
+      "MIN": 15.0
+    },
+    {
+      "teammate": "M. Ryan",
+      "MIN": 8.0
+    }
+  ],
+  "Zion Williamson": [
+    {
+      "teammate": "C. McCollum",
+      "MIN": 325.0
+    },
+    {
+      "teammate": "Y. Missi",
+      "MIN": 308.0
+    },
+    {
+      "teammate": "T. Murphy III",
+      "MIN": 297.0
+    },
+    {
+      "teammate": "J. Alvarado",
+      "MIN": 290.0
+    },
+    {
+      "teammate": "J. Hawkins",
+      "MIN": 259.0
+    },
+    {
+      "teammate": "J. Green",
+      "MIN": 148.0
+    },
+    {
+      "teammate": "K. Matkovi\u0107",
+      "MIN": 125.0
+    },
+    {
+      "teammate": "B. Ingram",
+      "MIN": 111.0
+    },
+    {
+      "teammate": "D. Theis",
+      "MIN": 109.0
+    },
+    {
+      "teammate": "D. Murray",
+      "MIN": 108.0
+    },
+    {
+      "teammate": "J. Robinson-Earl",
+      "MIN": 92.0
+    },
+    {
+      "teammate": "B. Boston",
+      "MIN": 81.0
+    },
+    {
+      "teammate": "H. Jones",
+      "MIN": 75.0
+    },
+    {
+      "teammate": "K. Olynyk",
+      "MIN": 55.0
+    },
+    {
+      "teammate": "A. Reeves",
+      "MIN": 45.0
+    },
+    {
+      "teammate": "J. Cain",
+      "MIN": 39.0
+    },
+    {
+      "teammate": "B. Brown",
+      "MIN": 25.0
+    },
+    {
+      "teammate": "K. Brooks Jr.",
+      "MIN": 1.0
+    }
+  ],
+  "Scottie Barnes": [
+    {
+      "teammate": "G. Dick",
+      "MIN": 776.0
+    },
+    {
+      "teammate": "R. Barrett",
+      "MIN": 740.0
+    },
+    {
+      "teammate": "J. Poeltl",
+      "MIN": 723.0
+    },
+    {
+      "teammate": "O. Agbaji",
+      "MIN": 653.0
+    },
+    {
+      "teammate": "D. Mitchell",
+      "MIN": 475.0
+    },
+    {
+      "teammate": "I. Quickley",
+      "MIN": 445.0
+    },
+    {
+      "teammate": "J. Walter",
+      "MIN": 424.0
+    },
+    {
+      "teammate": "J. Shead",
+      "MIN": 398.0
+    },
+    {
+      "teammate": "C. Boucher",
+      "MIN": 376.0
+    },
+    {
+      "teammate": "J. Mogbo",
+      "MIN": 346.0
+    },
+    {
+      "teammate": "K. Olynyk",
+      "MIN": 259.0
+    },
+    {
+      "teammate": "B. Brown",
+      "MIN": 221.0
+    },
+    {
+      "teammate": "J. Battle",
+      "MIN": 195.0
+    },
+    {
+      "teammate": "O. Robinson",
+      "MIN": 138.0
+    },
+    {
+      "teammate": "B. Fernando",
+      "MIN": 39.0
+    },
+    {
+      "teammate": "D. Carton",
+      "MIN": 18.0
+    },
+    {
+      "teammate": "U. Chomche",
+      "MIN": 12.0
+    },
+    {
+      "teammate": "G. Temple",
+      "MIN": 0.0
+    }
+  ],
+  "Jrue Holiday": [
+    {
+      "teammate": "J. Tatum",
+      "MIN": 1101.0
+    },
+    {
+      "teammate": "D. White",
+      "MIN": 1000.0
+    },
+    {
+      "teammate": "J. Brown",
+      "MIN": 992.0
+    },
+    {
+      "teammate": "K. Porzi\u0146\u0123is",
+      "MIN": 627.0
+    },
+    {
+      "teammate": "A. Horford",
+      "MIN": 622.0
+    },
+    {
+      "teammate": "P. Pritchard",
+      "MIN": 487.0
+    },
+    {
+      "teammate": "S. Hauser",
+      "MIN": 255.0
+    },
+    {
+      "teammate": "L. Kornet",
+      "MIN": 251.0
+    },
+    {
+      "teammate": "N. Queta",
+      "MIN": 212.0
+    },
+    {
+      "teammate": "X. Tillman",
+      "MIN": 61.0
+    },
+    {
+      "teammate": "J. Walsh",
+      "MIN": 16.0
+    },
+    {
+      "teammate": "D. Peterson",
+      "MIN": 14.0
+    },
+    {
+      "teammate": "J. Springer",
+      "MIN": 14.0
+    }
+  ],
+  "Jarrett Allen": [
+    {
+      "teammate": "D. Garland",
+      "MIN": 1416.0
+    },
+    {
+      "teammate": "D. Mitchell",
+      "MIN": 971.0
+    },
+    {
+      "teammate": "E. Mobley",
+      "MIN": 759.0
+    },
+    {
+      "teammate": "D. Wade",
+      "MIN": 564.0
+    },
+    {
+      "teammate": "C. LeVert",
+      "MIN": 537.0
+    },
+    {
+      "teammate": "M. Strus",
+      "MIN": 474.0
+    },
+    {
+      "teammate": "T. Jerome",
+      "MIN": 440.0
+    },
+    {
+      "teammate": "I. Okoro",
+      "MIN": 426.0
+    },
+    {
+      "teammate": "S. Merrill",
+      "MIN": 372.0
+    },
+    {
+      "teammate": "G. Niang",
+      "MIN": 368.0
+    },
+    {
+      "teammate": "J. Tyson",
+      "MIN": 124.0
+    },
+    {
+      "teammate": "C. Porter Jr.",
+      "MIN": 105.0
+    },
+    {
+      "teammate": "D. Hunter",
+      "MIN": 71.0
+    },
+    {
+      "teammate": "L. Travers",
+      "MIN": 9.0
+    },
+    {
+      "teammate": "E. Bates",
+      "MIN": 3.0
+    }
+  ],
+  "Jamal Murray": [
+    {
+      "teammate": "C. Braun",
+      "MIN": 1273.0
+    },
+    {
+      "teammate": "M. Porter Jr.",
+      "MIN": 1266.0
+    },
+    {
+      "teammate": "N. Joki\u0107",
+      "MIN": 1266.0
+    },
+    {
+      "teammate": "R. Westbrook",
+      "MIN": 760.0
+    },
+    {
+      "teammate": "P. Watson",
+      "MIN": 737.0
+    },
+    {
+      "teammate": "A. Gordon",
+      "MIN": 714.0
+    },
+    {
+      "teammate": "J. Strawther",
+      "MIN": 664.0
+    },
+    {
+      "teammate": "D. Jordan",
+      "MIN": 367.0
+    },
+    {
+      "teammate": "Z. Nnaji",
+      "MIN": 145.0
+    },
+    {
+      "teammate": "D. \u0160ari\u0107",
+      "MIN": 141.0
+    },
+    {
+      "teammate": "H. Tyson",
+      "MIN": 83.0
+    },
+    {
+      "teammate": "J. Pickett",
+      "MIN": 48.0
+    },
+    {
+      "teammate": "V. \u010can\u010dar",
+      "MIN": 15.0
+    },
+    {
+      "teammate": "T. Alexander",
+      "MIN": 8.0
+    },
+    {
+      "teammate": "S. Jones",
+      "MIN": 0.0
+    }
+  ]
+}

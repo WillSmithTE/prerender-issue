@@ -1,0 +1,8 @@
+bin/
+cache/
+include/
+lib/
+share/
+*.pdf
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*

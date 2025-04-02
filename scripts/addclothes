@@ -1,0 +1,3 @@
+#!/bin/bash
+
+npx wrangler d1 execute blog-1  --command "$1"

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "willsmith-party",
+  "main": "party/index.ts",
+  "compatibilityDate": "2024-07-13",
+  "serve": "public",
+  "parties": {
+    "ideas": "party/ideas.ts"
+  }
+}

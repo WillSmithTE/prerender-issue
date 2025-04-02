@@ -1,0 +1,58 @@
+[
+  {
+    "Race": "Bahrain Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.4202600958,
+    "Second Driver": "Charles Leclerc",
+    "Second Driver Age": 26.3764544832
+  },
+  {
+    "Race": "Saudi Arabian Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.4394250513,
+    "Second Driver": "Charles Leclerc",
+    "Second Driver Age": 26.3956194387
+  },
+  {
+    "Race": "Australian Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.4804928131,
+    "Second Driver": "Carlos Sainz",
+    "Second Driver Age": 29.5605749487
+  },
+  {
+    "Race": "Japanese Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.5188227242,
+    "Second Driver": "Sergio Perez",
+    "Second Driver Age": 34.1957563313
+  },
+  {
+    "Race": "Chinese Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.5571526352,
+    "Second Driver": "Sergio Perez",
+    "Second Driver Age": 34.2340862423
+  },
+  {
+    "Race": "Miami Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.5954825462,
+    "Second Driver": "Charles Leclerc",
+    "Second Driver Age": 26.5516769336
+  },
+  {
+    "Race": "Emilia Romagna Grand Prix",
+    "Pole Sitter": "Max Verstappen",
+    "Pole Sitter Age": 26.6338124572,
+    "Second Driver": "Oscar Piastri",
+    "Second Driver Age": 23.1184120465
+  },
+  {
+    "Race": "Monaco Grand Prix",
+    "Pole Sitter": "Charles Leclerc",
+    "Pole Sitter Age": 26.6091718001,
+    "Second Driver": "Oscar Piastri",
+    "Second Driver Age": 23.1375770021
+  }
+]
