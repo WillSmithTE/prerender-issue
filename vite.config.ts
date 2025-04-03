@@ -16,7 +16,7 @@ export default defineConfig(({ isSsrBuild }) => {
 			},
 			rollupOptions: isSsrBuild
 				? {
-						input: './workers/app.ts',
+						input: ['virtual:react-router/server-build', './workers/app.ts'],
 				  }
 				: undefined,
 		},
@@ -24,7 +24,7 @@ export default defineConfig(({ isSsrBuild }) => {
 			target: 'webworker',
 			// noExternal: true,
 			resolve: {
-				conditions: ['workerd', 'browser'],
+				conditions: ['workerd', 'browser', 'node'],
 			},
 			optimizeDeps: {
 				include: ['react', 'react/jsx-runtime', 'react/jsx-dev-runtime', 'react-dom', 'react-dom/server', 'react-router'],

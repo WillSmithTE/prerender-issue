@@ -1,40 +1,79 @@
-/**
- * By default, Remix will handle generating the HTTP Response for you.
- * You are free to delete this file if you'd like to, but if you ever want it revealed again, you can run `npx remix reveal` ✨
- * For more information, see https://remix.run/file-conventions/entry.server
- */
-
 import { isbot } from 'isbot'
-import { renderToReadableStream } from 'react-dom/server'
-import type { AppLoadContext, EntryContext } from 'react-router'
-import { ServerRouter } from 'react-router'
+import type { RenderToPipeableStreamOptions } from 'react-dom/server'
+import { ServerRouter, type EntryContext } from 'react-router'
 
-export default async function handleRequest(
-	request: Request,
-	responseStatusCode: number,
-	responseHeaders: Headers,
-	reactRouterContext: EntryContext,
-	// This is ignored so we can keep it in the template for visibility.  Feel
-	// free to delete this parameter in your app if you're not using it!
-	// eslint-disable-next-line @typescript-eslint/no-unused-vars
-	_loadContext: AppLoadContext,
-) {
-	const body = await renderToReadableStream(<ServerRouter context={reactRouterContext} url={request.url} />, {
-		signal: request.signal,
-		onError(error: unknown) {
-			// Log streaming rendering errors from inside the shell
-			console.error(error)
-			responseStatusCode = 500
-		},
-	})
+export const streamTimeout = 5_000_000
 
-	if (isbot(request.headers.get('user-agent') || '')) {
-		await body.allReady
+export default async function handleRequest(request: Request, status: number, headers: Headers, context: EntryContext) {
+	let shellRendered = false
+	const userAgent = request.headers.get('user-agent')
+	const shouldWaitForAllContent = isbot(userAgent) || context.isSpaMode
+
+	if ('renderToReadableStream' in (await import('react-dom/server'))) {
+		const { renderToReadableStream } = await import('react-dom/server')
+
+		const stream = await renderToReadableStream(<ServerRouter context={context} url={request.url} />, {
+			onError(error) {
+				// biome-ignore lint/style/noParameterAssign: this is required for this server to indicate failure
+				status = 500
+
+				if (shellRendered) {
+					console.error(error)
+				}
+			},
+		})
+
+		shellRendered = true
+
+		if (shouldWaitForAllContent) {
+			await stream.allReady
+		}
+
+		headers.set('Content-Type', 'text/html')
+
+		return new Response(stream, {
+			headers,
+			status,
+		})
 	}
 
-	responseHeaders.set('Content-Type', 'text/html')
-	return new Response(body, {
-		headers: responseHeaders,
-		status: responseStatusCode,
+	const { PassThrough } = await import('node:stream')
+	const { renderToPipeableStream } = await import('react-dom/server')
+	const { createReadableStreamFromReadable } = await import('@react-router/node')
+	const readyOption: keyof RenderToPipeableStreamOptions =
+		(userAgent && isbot(userAgent)) || context.isSpaMode ? 'onAllReady' : 'onShellReady'
+
+	return new Promise<Response>((resolve, reject) => {
+		const { pipe, abort } = renderToPipeableStream(<ServerRouter context={context} url={request.url} />, {
+			[readyOption]: () => {
+				shellRendered = true
+
+				const body = new PassThrough()
+				const stream = createReadableStreamFromReadable(body)
+
+				headers.set('Content-Type', 'text/html')
+
+				resolve(
+					new Response(stream, {
+						headers,
+						status,
+					}),
+				)
+
+				pipe(body)
+			},
+			onShellError(error) {
+				reject(error)
+			},
+			onError(error) {
+				status = 500
+
+				if (shellRendered) {
+					console.error(error)
+				}
+			},
+		})
+
+		setTimeout(abort, streamTimeout + 1000)
 	})
 }
