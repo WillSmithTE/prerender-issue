@@ -16,13 +16,13 @@ export default defineConfig(({ isSsrBuild }) => {
 			},
 			rollupOptions: isSsrBuild
 				? {
-						input: './workers/app.ts',
+						input: ['virtual:react-router/server-build', './workers/app.ts'],
 				  }
 				: undefined,
 		},
 		ssr: {
 			target: 'webworker',
-			// noExternal: true,
+			noExternal: true,
 			resolve: {
 				conditions: ['workerd', 'browser'],
 			},
